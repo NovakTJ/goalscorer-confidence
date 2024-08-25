@@ -1,68 +1,68 @@
-id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ScoredEarlier,ScoredPenEarlier,ScoredLater,ScoredPenLater,IsGoal,MyScore,OppScore,ScaledIsGoal,IsHome
-312514,5,SavedShot,0.8480000305175781,0.610999984741211,0.07678650319576263,Neal Maupay,h,3621,OpenPlay,2019,RightFoot,11666,Brighton,Southampton,0,2,2019-08-24 15:00:00,Leandro Trossard,Pass,0,0,0,0,False,0,0,0.0,True
-312515,6,BlockedShot,0.960999984741211,0.45099998474121095,0.31138700246810913,Neal Maupay,h,3621,FromCorner,2019,Head,11666,Brighton,Southampton,0,2,2019-08-24 15:00:00,Leandro Trossard,Aerial,0,0,0,0,False,0,0,0.0,True
-312517,35,SavedShot,0.8240000152587891,0.43599998474121093,0.07287079840898514,Nathan Redmond,a,790,OpenPlay,2019,RightFoot,11666,Brighton,Southampton,0,2,2019-08-24 15:00:00,Che Adams,TakeOn,0,0,1,0,False,0,0,0.0,False
-312518,36,BlockedShot,0.9380000305175781,0.40599998474121096,0.04615220054984093,Neal Maupay,h,3621,OpenPlay,2019,Head,11666,Brighton,Southampton,0,2,2019-08-24 15:00:00,Leandro Trossard,Aerial,0,0,0,0,False,0,0,0.0,True
-312519,45,MissedShots,0.7340000152587891,0.37,0.04583989828824997,James Ward-Prowse,a,843,DirectFreekick,2019,RightFoot,11666,Brighton,Southampton,0,2,2019-08-24 15:00:00,,Standard,0,0,0,0,False,0,0,0.0,False
-312525,60,BlockedShot,0.89,0.31799999237060544,0.07347220182418823,Che Adams,a,7700,OpenPlay,2019,RightFoot,11666,Brighton,Southampton,0,2,2019-08-24 15:00:00,Danny Ings,Pass,0,0,0,0,False,1,0,0.0,False
-312526,63,MissedShots,0.8130000305175781,0.4879999923706055,0.06912069767713547,Nathan Redmond,a,790,OpenPlay,2019,RightFoot,11666,Brighton,Southampton,0,2,2019-08-24 15:00:00,Danny Ings,BallRecovery,0,0,1,0,False,1,0,0.0,False
-312528,64,BlockedShot,0.87,0.634000015258789,0.0980881005525589,Moussa Djenepo,a,7701,OpenPlay,2019,RightFoot,11666,Brighton,Southampton,0,2,2019-08-24 15:00:00,Nathan Redmond,TakeOn,1,0,0,0,False,1,0,0.0,False
-312530,65,BlockedShot,0.9459999847412109,0.4809999847412109,0.5847690105438232,Che Adams,a,7700,FromCorner,2019,RightFoot,11666,Brighton,Southampton,0,2,2019-08-24 15:00:00,Jannik Vestergaard,Rebound,0,0,0,0,False,1,0,0.0,False
-312534,85,ShotOnPost,0.965999984741211,0.605999984741211,0.34161698818206787,Jürgen Locadia,h,6542,FromCorner,2019,LeftFoot,11666,Brighton,Southampton,0,2,2019-08-24 15:00:00,Glenn Murray,Rebound,0,0,0,0,False,0,1,0.0,True
-312535,90,SavedShot,0.89,0.37599998474121094,0.30611899495124817,Stuart Armstrong,a,6893,OpenPlay,2019,RightFoot,11666,Brighton,Southampton,0,2,2019-08-24 15:00:00,Nathan Redmond,Pass,0,0,0,0,False,1,0,0.0,False
-312536,90,Goal,0.9730000305175781,0.4540000152587891,0.707040011882782,Nathan Redmond,a,790,OpenPlay,2019,RightFoot,11666,Brighton,Southampton,0,2,2019-08-24 15:00:00,Sofiane Boufal,Pass,0,0,0,0,True,1,0,1.4143471135913408,False
-312537,94,MissedShots,0.769000015258789,0.3940000152587891,0.07050400227308273,James Ward-Prowse,a,843,DirectFreekick,2019,RightFoot,11666,Brighton,Southampton,0,2,2019-08-24 15:00:00,,Standard,0,0,0,0,False,2,0,0.0,False
-312578,8,MissedShots,0.9119999694824219,0.685,0.04957529902458191,Luke Shaw,h,1006,SetPiece,2019,LeftFoot,11669,Manchester United,Crystal Palace,1,2,2019-08-24 15:00:00,,None,0,0,0,0,False,0,0,0.0,True
-312579,14,MissedShots,0.720999984741211,0.56,0.04539550095796585,Marcus Rashford,h,556,DirectFreekick,2019,RightFoot,11669,Manchester United,Crystal Palace,1,2,2019-08-24 15:00:00,,Standard,0,0,0,0,False,0,0,0.0,True
-312580,16,BlockedShot,0.8969999694824219,0.5640000152587891,0.12522199749946594,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11669,Manchester United,Crystal Palace,1,2,2019-08-24 15:00:00,Luke Shaw,Pass,0,0,0,0,False,0,0,0.0,True
-312581,16,BlockedShot,0.919000015258789,0.395,0.348349004983902,Daniel James,h,5595,OpenPlay,2019,RightFoot,11669,Manchester United,Crystal Palace,1,2,2019-08-24 15:00:00,,Rebound,0,0,1,0,False,0,0,0.0,True
-312582,23,BlockedShot,0.8130000305175781,0.56,0.05931700021028519,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11669,Manchester United,Crystal Palace,1,2,2019-08-24 15:00:00,Paul Pogba,Pass,0,0,0,0,False,0,0,0.0,True
-312583,25,MissedShots,0.7930000305175782,0.6029999923706054,0.09518429636955261,Marcus Rashford,h,556,DirectFreekick,2019,RightFoot,11669,Manchester United,Crystal Palace,1,2,2019-08-24 15:00:00,,Standard,0,0,0,0,False,0,0,0.0,True
-312584,31,Goal,0.855,0.575999984741211,0.2946169972419739,Jordan Ayew,a,672,OpenPlay,2019,RightFoot,11669,Manchester United,Crystal Palace,1,2,2019-08-24 15:00:00,Jeffrey Schlupp,HeadPass,0,0,0,0,True,0,0,3.3942372957480225,False
-312586,36,SavedShot,0.9819999694824219,0.5709999847412109,0.1377750039100647,Wilfried Zaha,a,522,OpenPlay,2019,LeftFoot,11669,Manchester United,Crystal Palace,1,2,2019-08-24 15:00:00,,BallTouch,0,0,0,0,False,1,0,0.0,False
-312587,41,MissedShots,0.7980000305175782,0.6079999923706054,0.0996508002281189,Paul Pogba,h,1740,DirectFreekick,2019,RightFoot,11669,Manchester United,Crystal Palace,1,2,2019-08-24 15:00:00,,Standard,0,0,0,0,False,0,1,0.0,True
-312589,47,MissedShots,0.9590000152587891,0.4159999847412109,0.1042189970612526,Daniel James,h,5595,OpenPlay,2019,RightFoot,11669,Manchester United,Crystal Palace,1,2,2019-08-24 15:00:00,Ashley Young,Cross,0,0,1,0,False,0,1,0.0,True
-312590,50,BlockedShot,0.87,0.45799999237060546,0.06861130148172379,Daniel James,h,5595,OpenPlay,2019,LeftFoot,11669,Manchester United,Crystal Palace,1,2,2019-08-24 15:00:00,,None,0,0,1,0,False,0,1,0.0,True
-312591,52,BlockedShot,0.8230000305175781,0.539000015258789,0.06430339813232422,Paul Pogba,h,1740,OpenPlay,2019,RightFoot,11669,Manchester United,Crystal Palace,1,2,2019-08-24 15:00:00,Marcus Rashford,Pass,0,0,0,0,False,0,1,0.0,True
-312592,53,MissedShots,0.9169999694824219,0.66,0.047441400587558746,Ashley Young,h,631,OpenPlay,2019,RightFoot,11669,Manchester United,Crystal Palace,1,2,2019-08-24 15:00:00,Aaron Wan-Bissaka,Cross,0,0,0,0,False,0,1,0.0,True
-312593,54,MissedShots,0.8580000305175781,0.455,0.10821100324392319,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11669,Manchester United,Crystal Palace,1,2,2019-08-24 15:00:00,Scott McTominay,TakeOn,0,0,0,0,False,0,1,0.0,True
-312595,69,ShotOnPost,0.885,0.5,0.7611690163612366,Marcus Rashford,h,556,Penalty,2019,RightFoot,11669,Manchester United,Crystal Palace,1,2,2019-08-24 15:00:00,,Standard,0,0,0,0,False,0,1,0.0,True
-312597,75,BlockedShot,0.97,0.4159999847412109,0.05154459923505783,Scott McTominay,h,5560,SetPiece,2019,Head,11669,Manchester United,Crystal Palace,1,2,2019-08-24 15:00:00,Ashley Young,Aerial,0,0,0,0,False,0,1,0.0,True
-312598,76,MissedShots,0.919000015258789,0.48400001525878905,0.04416089877486229,Paul Pogba,h,1740,FromCorner,2019,Head,11669,Manchester United,Crystal Palace,1,2,2019-08-24 15:00:00,Ashley Young,Aerial,0,0,0,0,False,0,1,0.0,True
-312601,88,Goal,0.875,0.6020000076293945,0.07949160039424896,Daniel James,h,5595,OpenPlay,2019,RightFoot,11669,Manchester United,Crystal Palace,1,2,2019-08-24 15:00:00,Anthony Martial,Pass,0,0,0,0,True,0,1,12.57994549160376,True
-312602,89,MissedShots,0.9180000305175782,0.6580000305175782,0.11736200004816055,Wilfried Zaha,a,522,OpenPlay,2019,RightFoot,11669,Manchester United,Crystal Palace,1,2,2019-08-24 15:00:00,Luka Milivojevic,Chipped,0,0,0,0,False,1,1,0.0,False
-312603,92,Goal,0.9159999847412109,0.6459999847412109,0.10385899990797043,Patrick van Aanholt,a,730,OpenPlay,2019,LeftFoot,11669,Manchester United,Crystal Palace,1,2,2019-08-24 15:00:00,,TakeOn,0,0,0,0,True,1,1,9.628438564651123,False
-312498,8,MissedShots,0.7390000152587891,0.41200000762939454,0.052707500755786896,Christian Fuchs,a,749,DirectFreekick,2019,LeftFoot,11665,Sheffield United,Leicester,1,2,2019-08-24 15:00:00,,Standard,0,0,0,0,False,0,0,0.0,False
-312501,16,MissedShots,0.9390000152587891,0.46900001525878904,0.08149229735136032,Jamie Vardy,a,755,OpenPlay,2019,Head,11665,Sheffield United,Leicester,1,2,2019-08-24 15:00:00,Youri Tielemans,Aerial,0,0,1,0,False,0,0,0.0,False
-312503,27,SavedShot,0.845999984741211,0.4,0.04125469923019409,George Baldock,h,7706,OpenPlay,2019,RightFoot,11665,Sheffield United,Leicester,1,2,2019-08-24 15:00:00,Jack O&#039;Connell,Cross,0,0,0,0,False,0,0,0.0,True
-312504,30,BlockedShot,0.7480000305175781,0.534000015258789,0.06266540288925171,James Maddison,a,6818,DirectFreekick,2019,RightFoot,11665,Sheffield United,Leicester,1,2,2019-08-24 15:00:00,,Standard,0,0,0,0,False,0,0,0.0,False
-312505,37,Goal,0.9109999847412109,0.6320000076293946,0.31542399525642395,Jamie Vardy,a,755,OpenPlay,2019,LeftFoot,11665,Sheffield United,Leicester,1,2,2019-08-24 15:00:00,James Maddison,Throughball,0,0,0,0,True,0,0,3.170335849645966,False
-312507,49,BlockedShot,0.9369999694824219,0.715999984741211,0.06448239833116531,James Maddison,a,6818,OpenPlay,2019,LeftFoot,11665,Sheffield United,Leicester,1,2,2019-08-24 15:00:00,Dennis Praet,Pass,0,0,0,0,False,1,0,0.0,False
-312510,74,SavedShot,0.905,0.46299999237060546,0.4071449935436249,John Lundstram,h,7708,OpenPlay,2019,LeftFoot,11665,Sheffield United,Leicester,1,2,2019-08-24 15:00:00,Billy Sharp,HeadPass,0,0,0,0,False,1,2,0.0,True
-312512,91,BlockedShot,0.7609999847412109,0.5,0.07445169985294342,Oliver Norwood,h,7710,DirectFreekick,2019,RightFoot,11665,Sheffield United,Leicester,1,2,2019-08-24 15:00:00,,Standard,0,0,0,0,False,1,2,0.0,True
-312538,2,Goal,0.885,0.5,0.7611690163612366,Mark Noble,a,533,Penalty,2019,RightFoot,11667,Watford,West Ham,1,3,2019-08-24 15:00:00,,Standard,0,0,0,0,True,0,0,1.313768661762526,False
-312539,5,ShotOnPost,0.95,0.69,0.24836599826812744,Gerard Deulofeu,h,591,OpenPlay,2019,LeftFoot,11667,Watford,West Ham,1,3,2019-08-24 15:00:00,Andre Gray,Pass,0,0,0,0,False,0,1,0.0,True
-312540,8,MissedShots,0.8919999694824219,0.5259999847412109,0.13887299597263336,Manuel Lanzini,a,535,OpenPlay,2019,RightFoot,11667,Watford,West Ham,1,3,2019-08-24 15:00:00,Felipe Anderson,Pass,0,0,0,0,False,1,0,0.0,False
-312543,11,BlockedShot,0.88,0.39099998474121095,0.07480660080909729,Abdoulaye Doucouré,h,1726,OpenPlay,2019,LeftFoot,11667,Watford,West Ham,1,3,2019-08-24 15:00:00,Will Hughes,Pass,0,0,0,0,False,0,1,0.0,True
-312545,16,Goal,0.9230000305175782,0.34200000762939453,0.0713580995798111,Andre Gray,h,1660,OpenPlay,2019,RightFoot,11667,Watford,West Ham,1,3,2019-08-24 15:00:00,Will Hughes,Pass,0,0,0,0,True,0,1,14.013826123291599,True
-312546,19,MissedShots,0.89,0.40299999237060546,0.06031959876418114,Andre Gray,h,1660,OpenPlay,2019,RightFoot,11667,Watford,West Ham,1,3,2019-08-24 15:00:00,Gerard Deulofeu,Cross,1,0,0,0,False,1,1,0.0,True
-312547,21,SavedShot,0.9459999847412109,0.500999984741211,0.12404700368642807,Sébastien Haller,a,6144,OpenPlay,2019,RightFoot,11667,Watford,West Ham,1,3,2019-08-24 15:00:00,Andriy Yarmolenko,HeadPass,0,0,1,0,False,1,1,0.0,False
-312548,26,MissedShots,0.8859999847412109,0.5670000076293945,0.11592099815607071,Andre Gray,h,1660,OpenPlay,2019,LeftFoot,11667,Watford,West Ham,1,3,2019-08-24 15:00:00,José Holebas,Pass,1,0,0,0,False,1,1,0.0,True
-312549,31,BlockedShot,0.8640000152587891,0.325,0.0554456003010273,Gerard Deulofeu,h,591,OpenPlay,2019,RightFoot,11667,Watford,West Ham,1,3,2019-08-24 15:00:00,Abdoulaye Doucouré,Pass,0,0,0,0,False,1,1,0.0,True
-312552,36,BlockedShot,0.840999984741211,0.685,0.04048459976911545,Gerard Deulofeu,h,591,OpenPlay,2019,RightFoot,11667,Watford,West Ham,1,3,2019-08-24 15:00:00,Tom Cleverley,Chipped,0,0,0,0,False,1,1,0.0,True
-312553,38,BlockedShot,0.9219999694824219,0.4759999847412109,0.12626899778842926,Abdoulaye Doucouré,h,1726,OpenPlay,2019,Head,11667,Watford,West Ham,1,3,2019-08-24 15:00:00,Kiko Femenía,Cross,0,0,0,0,False,1,1,0.0,True
-312554,39,MissedShots,0.8880000305175781,0.43099998474121093,0.05095810070633888,Tom Cleverley,h,596,FromCorner,2019,RightFoot,11667,Watford,West Ham,1,3,2019-08-24 15:00:00,José Holebas,Cross,0,0,0,0,False,1,1,0.0,True
-312555,41,ShotOnPost,0.9340000152587891,0.42700000762939455,0.08128990232944489,Felipe Anderson,a,1208,FromCorner,2019,Head,11667,Watford,West Ham,1,3,2019-08-24 15:00:00,Manuel Lanzini,Cross,0,0,0,0,False,1,1,0.0,False
-312556,42,MissedShots,0.955999984741211,0.5309999847412109,0.0841602012515068,Sébastien Haller,a,6144,FromCorner,2019,Head,11667,Watford,West Ham,1,3,2019-08-24 15:00:00,Manuel Lanzini,Aerial,0,0,1,0,False,1,1,0.0,False
-312557,46,MissedShots,0.92,0.5509999847412109,0.11591500043869019,Tom Cleverley,h,596,OpenPlay,2019,RightFoot,11667,Watford,West Ham,1,3,2019-08-24 15:00:00,Kiko Femenía,Cross,0,0,0,0,False,1,1,0.0,True
-312558,47,SavedShot,0.875999984741211,0.595999984741211,0.09534700214862823,Felipe Anderson,a,1208,OpenPlay,2019,LeftFoot,11667,Watford,West Ham,1,3,2019-08-24 15:00:00,Andriy Yarmolenko,Pass,0,0,0,0,False,1,1,0.0,False
-312560,53,BlockedShot,0.8959999847412109,0.6930000305175781,0.059362199157476425,Gerard Deulofeu,h,591,OpenPlay,2019,RightFoot,11667,Watford,West Ham,1,3,2019-08-24 15:00:00,Abdoulaye Doucouré,Pass,0,0,0,0,False,1,1,0.0,True
-312561,54,MissedShots,0.9830000305175781,0.455,0.8419780135154724,Will Hughes,h,6104,OpenPlay,2019,RightFoot,11667,Watford,West Ham,1,3,2019-08-24 15:00:00,Andre Gray,Pass,0,0,0,0,False,1,1,0.0,True
-312564,63,Goal,0.9569999694824218,0.500999984741211,0.6775670051574707,Sébastien Haller,a,6144,OpenPlay,2019,RightFoot,11667,Watford,West Ham,1,3,2019-08-24 15:00:00,Felipe Anderson,Pass,0,0,1,0,True,1,1,1.4758687958360575,False
-312566,68,BlockedShot,0.8769999694824219,0.6519999694824219,0.09994590282440186,Felipe Anderson,a,1208,OpenPlay,2019,RightFoot,11667,Watford,West Ham,1,3,2019-08-24 15:00:00,Arthur Masuaku,Pass,0,0,0,0,False,2,1,0.0,False
-312567,71,SavedShot,0.915,0.46799999237060547,0.32947298884391785,Michail Antonio,a,531,OpenPlay,2019,Head,11667,Watford,West Ham,1,3,2019-08-24 15:00:00,Felipe Anderson,Cross,0,0,0,0,False,2,1,0.0,False
-312568,72,SavedShot,0.965999984741211,0.5609999847412109,0.1249610036611557,Michail Antonio,a,531,FromCorner,2019,Head,11667,Watford,West Ham,1,3,2019-08-24 15:00:00,Manuel Lanzini,Cross,0,0,0,0,False,2,1,0.0,False
-312569,72,Goal,0.980999984741211,0.4809999847412109,0.9362149834632874,Sébastien Haller,a,6144,FromCorner,2019,RightFoot,11667,Watford,West Ham,1,3,2019-08-24 15:00:00,,Rebound,1,0,0,0,True,2,1,1.0681307367040382,False
-312570,80,MissedShots,0.8680000305175781,0.48200000762939454,0.10520800203084946,Tom Cleverley,h,596,OpenPlay,2019,LeftFoot,11667,Watford,West Ham,1,3,2019-08-24 15:00:00,Abdoulaye Doucouré,Pass,0,0,0,0,False,1,3,0.0,True
-312573,82,SavedShot,0.924000015258789,0.6759999847412109,0.06570830196142197,Abdoulaye Doucouré,h,1726,OpenPlay,2019,LeftFoot,11667,Watford,West Ham,1,3,2019-08-24 15:00:00,Tom Cleverley,Pass,0,0,0,0,False,1,3,0.0,True
-312575,85,MissedShots,0.905,0.35400001525878905,0.06000930070877075,Andre Gray,h,1660,FromCorner,2019,RightFoot,11667,Watford,West Ham,1,3,2019-08-24 15:00:00,Tom Cleverley,HeadPass,1,0,0,0,False,1,3,0.0,True
+,id,minute,xG,h_a,season,h_team,a_team,date,ScoredEarlier,ScoredPenEarlier,ScoredLater,ScoredPenLater,IsGoal,MyScore,OppScore,ScaledIsGoal,IsHome,HomeOdds,AwayOdds
+4083,312514,5,0.0767865031957626,h,2019,Brighton,Southampton,2019-08-24 15:00:00,0,0,0,0,False,0,0,0.0,True,2.0,2.0
+4084,312515,6,0.3113870024681091,h,2019,Brighton,Southampton,2019-08-24 15:00:00,0,0,0,0,False,0,0,0.0,True,2.0,2.0
+5893,312517,35,0.0728707984089851,a,2019,Brighton,Southampton,2019-08-24 15:00:00,0,0,1,0,False,0,0,0.0,False,2.0,2.0
+4085,312518,36,0.0461522005498409,h,2019,Brighton,Southampton,2019-08-24 15:00:00,0,0,0,0,False,0,0,0.0,True,2.0,2.0
+6730,312519,45,0.0458398982882499,a,2019,Brighton,Southampton,2019-08-24 15:00:00,0,0,0,0,False,0,0,0.0,False,2.0,2.0
+4582,312525,60,0.0734722018241882,a,2019,Brighton,Southampton,2019-08-24 15:00:00,0,0,0,0,False,1,0,0.0,False,2.0,2.0
+5894,312526,63,0.0691206976771354,a,2019,Brighton,Southampton,2019-08-24 15:00:00,0,0,1,0,False,1,0,0.0,False,2.0,2.0
+2690,312528,64,0.0980881005525589,a,2019,Brighton,Southampton,2019-08-24 15:00:00,1,0,0,0,False,1,0,0.0,False,2.0,2.0
+4583,312530,65,0.5847690105438232,a,2019,Brighton,Southampton,2019-08-24 15:00:00,0,0,0,0,False,1,0,0.0,False,2.0,2.0
+7824,312534,85,0.3416169881820678,h,2019,Brighton,Southampton,2019-08-24 15:00:00,0,0,0,0,False,0,1,0.0,True,2.0,2.0
+3458,312535,90,0.3061189949512481,a,2019,Brighton,Southampton,2019-08-24 15:00:00,0,0,0,0,False,1,0,0.0,False,2.0,2.0
+5895,312536,90,0.707040011882782,a,2019,Brighton,Southampton,2019-08-24 15:00:00,0,0,0,0,True,1,0,1.4143471135913408,False,2.0,2.0
+6731,312537,94,0.0705040022730827,a,2019,Brighton,Southampton,2019-08-24 15:00:00,0,0,0,0,False,2,0,0.0,False,2.0,2.0
+6640,312578,8,0.0495752990245819,h,2019,Manchester United,Crystal Palace,2019-08-24 15:00:00,0,0,0,0,False,0,0,0.0,True,2.0,2.0
+8036,312579,14,0.0453955009579658,h,2019,Manchester United,Crystal Palace,2019-08-24 15:00:00,0,0,0,0,False,0,0,0.0,True,2.0,2.0
+1111,312581,16,0.348349004983902,h,2019,Manchester United,Crystal Palace,2019-08-24 15:00:00,0,0,1,0,False,0,0,0.0,True,2.0,2.0
+3940,312580,16,0.1252219974994659,h,2019,Manchester United,Crystal Palace,2019-08-24 15:00:00,0,0,0,0,False,0,0,0.0,True,2.0,2.0
+3941,312582,23,0.0593170002102851,h,2019,Manchester United,Crystal Palace,2019-08-24 15:00:00,0,0,0,0,False,0,0,0.0,True,2.0,2.0
+8037,312583,25,0.0951842963695526,h,2019,Manchester United,Crystal Palace,2019-08-24 15:00:00,0,0,0,0,False,0,0,0.0,True,2.0,2.0
+7193,312584,31,0.2946169972419739,a,2019,Manchester United,Crystal Palace,2019-08-24 15:00:00,0,0,0,0,True,0,0,3.3942372957480225,False,2.0,2.0
+2088,312586,36,0.1377750039100647,a,2019,Manchester United,Crystal Palace,2019-08-24 15:00:00,0,0,0,0,False,1,0,0.0,False,2.0,2.0
+8915,312587,41,0.0996508002281189,h,2019,Manchester United,Crystal Palace,2019-08-24 15:00:00,0,0,0,0,False,0,1,0.0,True,2.0,2.0
+1112,312589,47,0.1042189970612526,h,2019,Manchester United,Crystal Palace,2019-08-24 15:00:00,0,0,1,0,False,0,1,0.0,True,2.0,2.0
+1113,312590,50,0.0686113014817237,h,2019,Manchester United,Crystal Palace,2019-08-24 15:00:00,0,0,1,0,False,0,1,0.0,True,2.0,2.0
+8916,312591,52,0.0643033981323242,h,2019,Manchester United,Crystal Palace,2019-08-24 15:00:00,0,0,0,0,False,0,1,0.0,True,2.0,2.0
+1758,312592,53,0.0474414005875587,h,2019,Manchester United,Crystal Palace,2019-08-24 15:00:00,0,0,0,0,False,0,1,0.0,True,2.0,2.0
+3942,312593,54,0.1082110032439231,h,2019,Manchester United,Crystal Palace,2019-08-24 15:00:00,0,0,0,0,False,0,1,0.0,True,2.0,2.0
+8039,312595,69,0.7611690163612366,h,2019,Manchester United,Crystal Palace,2019-08-24 15:00:00,0,0,0,0,False,0,1,0.0,True,2.0,2.0
+6837,312597,75,0.0515445992350578,h,2019,Manchester United,Crystal Palace,2019-08-24 15:00:00,0,0,0,0,False,0,1,0.0,True,2.0,2.0
+8917,312598,76,0.0441608987748622,h,2019,Manchester United,Crystal Palace,2019-08-24 15:00:00,0,0,0,0,False,0,1,0.0,True,2.0,2.0
+1114,312601,88,0.0794916003942489,h,2019,Manchester United,Crystal Palace,2019-08-24 15:00:00,0,0,0,0,True,0,1,12.57994549160377,True,2.0,2.0
+2089,312602,89,0.1173620000481605,a,2019,Manchester United,Crystal Palace,2019-08-24 15:00:00,0,0,0,0,False,1,1,0.0,False,2.0,2.0
+2995,312603,92,0.1038589999079704,a,2019,Manchester United,Crystal Palace,2019-08-24 15:00:00,0,0,0,0,True,1,1,9.628438564651127,False,2.0,2.0
+8953,312498,8,0.0527075007557868,a,2019,Sheffield United,Leicester,2019-08-24 15:00:00,0,0,0,0,False,0,0,0.0,False,2.0,2.0
+6900,312501,16,0.0814922973513603,a,2019,Sheffield United,Leicester,2019-08-24 15:00:00,0,0,1,0,False,0,0,0.0,False,2.0,2.0
+4740,312503,27,0.041254699230194,h,2019,Sheffield United,Leicester,2019-08-24 15:00:00,0,0,0,0,False,0,0,0.0,True,2.0,2.0
+396,312504,30,0.0626654028892517,a,2019,Sheffield United,Leicester,2019-08-24 15:00:00,0,0,0,0,False,0,0,0.0,False,2.0,2.0
+6901,312505,37,0.3154239952564239,a,2019,Sheffield United,Leicester,2019-08-24 15:00:00,0,0,0,0,True,0,0,3.1703358496459666,False,2.0,2.0
+397,312507,49,0.0644823983311653,a,2019,Sheffield United,Leicester,2019-08-24 15:00:00,0,0,0,0,False,1,0,0.0,False,2.0,2.0
+9111,312510,74,0.4071449935436249,h,2019,Sheffield United,Leicester,2019-08-24 15:00:00,0,0,0,0,False,1,2,0.0,True,2.0,2.0
+8206,312512,91,0.0744516998529434,h,2019,Sheffield United,Leicester,2019-08-24 15:00:00,0,0,0,0,False,1,2,0.0,True,2.0,2.0
+2798,312538,2,0.7611690163612366,a,2019,Watford,West Ham,2019-08-24 15:00:00,0,0,0,0,True,0,0,1.313768661762526,False,2.0,2.0
+286,312539,5,0.2483659982681274,h,2019,Watford,West Ham,2019-08-24 15:00:00,0,0,0,0,False,0,1,0.0,True,2.0,2.0
+5375,312540,8,0.1388729959726333,a,2019,Watford,West Ham,2019-08-24 15:00:00,0,0,0,0,False,1,0,0.0,False,2.0,2.0
+5803,312543,11,0.0748066008090972,h,2019,Watford,West Ham,2019-08-24 15:00:00,0,0,0,0,False,0,1,0.0,True,2.0,2.0
+1170,312545,16,0.0713580995798111,h,2019,Watford,West Ham,2019-08-24 15:00:00,0,0,0,0,True,0,1,14.013826123291599,True,2.0,2.0
+1171,312546,19,0.0603195987641811,h,2019,Watford,West Ham,2019-08-24 15:00:00,1,0,0,0,False,1,1,0.0,True,2.0,2.0
+7826,312547,21,0.124047003686428,a,2019,Watford,West Ham,2019-08-24 15:00:00,0,0,1,0,False,1,1,0.0,False,2.0,2.0
+1172,312548,26,0.1159209981560707,h,2019,Watford,West Ham,2019-08-24 15:00:00,1,0,0,0,False,1,1,0.0,True,2.0,2.0
+288,312549,31,0.0554456003010273,h,2019,Watford,West Ham,2019-08-24 15:00:00,0,0,0,0,False,1,1,0.0,True,2.0,2.0
+289,312552,36,0.0404845997691154,h,2019,Watford,West Ham,2019-08-24 15:00:00,0,0,0,0,False,1,1,0.0,True,2.0,2.0
+5804,312553,38,0.1262689977884292,h,2019,Watford,West Ham,2019-08-24 15:00:00,0,0,0,0,False,1,1,0.0,True,2.0,2.0
+139,312554,39,0.0509581007063388,h,2019,Watford,West Ham,2019-08-24 15:00:00,0,0,0,0,False,1,1,0.0,True,2.0,2.0
+1964,312555,41,0.0812899023294448,a,2019,Watford,West Ham,2019-08-24 15:00:00,0,0,0,0,False,1,1,0.0,False,2.0,2.0
+7827,312556,42,0.0841602012515068,a,2019,Watford,West Ham,2019-08-24 15:00:00,0,0,1,0,False,1,1,0.0,False,2.0,2.0
+140,312557,46,0.1159150004386901,h,2019,Watford,West Ham,2019-08-24 15:00:00,0,0,0,0,False,1,1,0.0,True,2.0,2.0
+1965,312558,47,0.0953470021486282,a,2019,Watford,West Ham,2019-08-24 15:00:00,0,0,0,0,False,1,1,0.0,False,2.0,2.0
+290,312560,53,0.0593621991574764,h,2019,Watford,West Ham,2019-08-24 15:00:00,0,0,0,0,False,1,1,0.0,True,2.0,2.0
+5531,312561,54,0.8419780135154724,h,2019,Watford,West Ham,2019-08-24 15:00:00,0,0,0,0,False,1,1,0.0,True,2.0,2.0
+7828,312564,63,0.6775670051574707,a,2019,Watford,West Ham,2019-08-24 15:00:00,0,0,1,0,True,1,1,1.4758687958360575,False,2.0,2.0
+1966,312566,68,0.0999459028244018,a,2019,Watford,West Ham,2019-08-24 15:00:00,0,0,0,0,False,2,1,0.0,False,2.0,2.0
+7885,312567,71,0.3294729888439178,a,2019,Watford,West Ham,2019-08-24 15:00:00,0,0,0,0,False,2,1,0.0,False,2.0,2.0
+7829,312569,72,0.9362149834632874,a,2019,Watford,West Ham,2019-08-24 15:00:00,1,0,0,0,True,2,1,1.0681307367040382,False,2.0,2.0
+7886,312568,72,0.1249610036611557,a,2019,Watford,West Ham,2019-08-24 15:00:00,0,0,0,0,False,2,1,0.0,False,2.0,2.0
+141,312570,80,0.1052080020308494,h,2019,Watford,West Ham,2019-08-24 15:00:00,0,0,0,0,False,1,3,0.0,True,2.0,2.0
+5805,312573,82,0.0657083019614219,h,2019,Watford,West Ham,2019-08-24 15:00:00,0,0,0,0,False,1,3,0.0,True,2.0,2.0
+1174,312575,85,0.0600093007087707,h,2019,Watford,West Ham,2019-08-24 15:00:00,1,0,0,0,False,1,3,0.0,True,2.0,2.0
