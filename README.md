@@ -12,7 +12,7 @@ Keywords: machine learning, statistical analysis, web scraping, pandas, sports, 
 
 xG is calculated from the location of the shot-taker, the goalkeeper's position, the speed of the ball, and other physical features, and mathematically it is an estimate of the expected value of the number of goals scored from the shot-taking situation. The goal of the analysis is to improve the EV estimate, by taking into account mental factors. 
 
-**Popular classification models are of no use in this problem.** Most xG values are under 0.3, so any combination of positive mental attributes is still unlikely to result in a goal, because of the paucity of high-xG chances. Accurate prediction is impossible here, and it is what most ML models are made to do. Additionally, xG is already present in the data, which should be used since it already gives a great estimate for the chance that a goal will be scored.
+**Popular classification models are of no use in this problem.** Most xG values are under 0.3, so any combination of positive mental attributes is still unlikely to result in a goal. Accurate prediction is impossible here, and it is what most ML models are made to do. Additionally, xG is already present in the data.
 
 ## Methods
 
@@ -46,4 +46,4 @@ The simplicity of the model guarantees that AwareXG is a better estimate than XG
 
 ## Further work
 
-Data from other leagues can be added easily after matching the team names used by OddsPortal and Understat. In addition, the model should be properly tested on separate data. Lastly, I suspect that many individual player features (like PrevAccumXG) are used by the model as proxies for the player's usual goalscoring ability or position, but I wasn't able to quantify this easily while preserving the autoregressive property - this can be done in the future.
+Data from other leagues can be added easily after matching the team names used by OddsPortal and Understat. In addition, the model's calibration should be properly tested on separate data. Lastly, I suspect that many individual player features (like PrevAccumXG) are used by the model as proxies for the player's usual goalscoring ability or position, but I wasn't able to quantify this easily while preserving the autoregressive property - this can be done in the future.
