@@ -18,7 +18,7 @@ At first, I wanted to see if scoring a goal earlier in the match meant that a pl
 
 The statistical model used is described by the equation:
 
-$ \text{AwareXG} = \text{xG} * \text{1 + \beta + \sum_i \alpha_i x_i} $
+$$ \text{AwareXG} = \text{xG} * \text{1 + \beta + \sum_i \alpha_i x_i} $$
 
 where $x_i$ are the features, and $a_i$ and $\beta$ are the model parameters.
 
