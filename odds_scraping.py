@@ -1,9 +1,12 @@
 import requests
 import json
 
-YEAR = 2021
+YEAR = 2018
 def get_url(i):
-    return f'https://www.oddsportal.com/ajax-sport-country-tournament-archive_/1/tdkpynmB/X360488X0X0X0X0X0X0X0X0X0X0X0X0X134217729X0X1048578X0X0X1024X18464X131072X256/1/0/page/{i}?_=1724622553073'
+    return f'https://www.oddsportal.com/ajax-sport-country-tournament-archive_/1/zoZ4r7jR/X360488X0X0X0X0X0X0X0X0X0X0X0X0X134217729X0X1048578X0X0X1024X18464X131072X256/1/0/page/{i}/?_=1724676234926'
+    #return f'https://www.oddsportal.com/ajax-sport-country-tournament-archive_/1/jDTEm9zs/X360488X0X0X0X0X0X0X0X0X0X0X0X0X134217729X0X1048578X0X0X1024X18464X131072X256/1/0/page/{i}/?_=1724670227066'
+    #return f'https://www.oddsportal.com/ajax-sport-country-tournament-archive_/1/nmP0jyrt/X360488X0X0X0X0X0X0X0X0X0X0X0X0X134217729X0X1048578X0X0X1024X18464X131072X256/1/0/page/{i}?_=1724668051063'
+    #return f'https://www.oddsportal.com/ajax-sport-country-tournament-archive_/1/tdkpynmB/X360488X0X0X0X0X0X0X0X0X0X0X0X0X134217729X0X1048578X0X0X1024X18464X131072X256/1/0/page/{i}?_=1724622553073'
     #return f'https://www.oddsportal.com/ajax-sport-country-tournament-archive_/1/AJuiuwWt/X360488X0X0X0X0X0X0X0X0X0X0X0X0X134217729X0X1048578X0X0X1024X18464X131072X256/1/0/page/{i}/?_=1724615445286'
     #return f"https://www.oddsportal.com/ajax-sport-country-tournament-archive_/1/h2NtrDMq/X360488X0X0X0X0X0X0X0X0X0X0X0X0X134217729X0X1048578X0X0X1024X18464X131072X256/1/0/page/{i}/?_=1724614515712"
 

@@ -1,0 +1,3681 @@
+{
+    "s": 1,
+    "d": {
+        "total": 380,
+        "onePage": 50,
+        "page": 8,
+        "rows": [
+            {
+                "id": 6750573,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18113390,
+                "away": 18113391,
+                "home-name": "Luton",
+                "away-name": "West Ham",
+                "home-country-two-chart-name": "198",
+                "away-country-two-chart-name": "198",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 71432,
+                "tournament-stage-id": 118530,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/lCpqAGBK-dATKxRKP.png?240821115140"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/pYvB3X73-ARW4wdCc.png?240821115140"
+                ],
+                "encodeEventId": "zF0205Qb",
+                "colClassName": "datet t1693594800-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/england/premier-league-2023-2024/luton-west-ham-zF0205Qb/",
+                "date-start-base": 1693594800,
+                "date-start-timestamp": 1693594800,
+                "result": "1:2",
+                "homeResult": "1",
+                "awayResult": "2",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "lost",
+                "away-winner": "win",
+                "postmatchResult": "1:2",
+                "info": null,
+                "partialresult": "0:1, 1:1",
+                "country-id": 198,
+                "country-name": "England",
+                "country-two-chart-name": 198,
+                "country-type": "State",
+                "tournament-id": 71432,
+                "tournament-name": "Premier League 2023/2024",
+                "tournament-url": "premier-league-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "England",
+                        "url": "/football/england/"
+                    },
+                    "tournament": {
+                        "name": "Premier League 2023/2024",
+                        "url": "/football/england/premier-league-2023-2024/"
+                    }
+                },
+                "stream": [],
+                "bookmakersCount": 13,
+                "betting_type": 1,
+                "winner_post": 2,
+                "odds": [
+                    {
+                        "avgOdds": 4.69,
+                        "bettingTypeId": 1,
+                        "eventId": 6750573,
+                        "maxOdds": 4.99,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0bdxv464x0xh8ore",
+                        "maxOddsProviderId": 417,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 4.07,
+                        "bettingTypeId": 1,
+                        "eventId": 6750573,
+                        "maxOdds": 4.35,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0bdxv498x0x0",
+                        "maxOddsProviderId": 5,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 1.73,
+                        "bettingTypeId": 1,
+                        "eventId": 6750573,
+                        "maxOdds": 1.77,
+                        "outcomeResultId": 1,
+                        "scopeId": 2,
+                        "outcomeId": "6e0bdxv464x0xh8orf",
+                        "maxOddsProviderId": 617,
+                        "active": true
+                    }
+                ],
+                "name": "Luton - West Ham",
+                "colClassNameTime": "datet t1693594800-1-1-0-0"
+            },
+            {
+                "id": 6750564,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18113372,
+                "away": 18113373,
+                "home-name": "Newcastle",
+                "away-name": "Liverpool",
+                "home-country-two-chart-name": "198",
+                "away-country-two-chart-name": "198",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 71432,
+                "tournament-stage-id": 118530,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/KWip625n-ImMEe0UF.png?240821115140"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/jmWrVR93-feQECFUo.png?240821115140"
+                ],
+                "encodeEventId": "MgoOaYZm",
+                "colClassName": "datet t1693150200-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/england/premier-league-2023-2024/newcastle-utd-liverpool-MgoOaYZm/",
+                "date-start-base": 1693150200,
+                "date-start-timestamp": 1693150200,
+                "result": "1:2",
+                "homeResult": "1",
+                "awayResult": "2",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "lost",
+                "away-winner": "win",
+                "postmatchResult": "1:2",
+                "info": null,
+                "partialresult": "1:0, 0:2",
+                "country-id": 198,
+                "country-name": "England",
+                "country-two-chart-name": 198,
+                "country-type": "State",
+                "tournament-id": 71432,
+                "tournament-name": "Premier League 2023/2024",
+                "tournament-url": "premier-league-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "England",
+                        "url": "/football/england/"
+                    },
+                    "tournament": {
+                        "name": "Premier League 2023/2024",
+                        "url": "/football/england/premier-league-2023-2024/"
+                    }
+                },
+                "stream": null,
+                "bookmakersCount": 13,
+                "betting_type": 1,
+                "winner_post": 2,
+                "odds": [
+                    {
+                        "avgOdds": 2.23,
+                        "bettingTypeId": 1,
+                        "eventId": 6750564,
+                        "maxOdds": 2.4,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0b4xv464x0xh8oqs",
+                        "maxOddsProviderId": 417,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 3.8,
+                        "bettingTypeId": 1,
+                        "eventId": 6750564,
+                        "maxOdds": 3.94,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0b4xv498x0x0",
+                        "maxOddsProviderId": 575,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 3.03,
+                        "bettingTypeId": 1,
+                        "eventId": 6750564,
+                        "maxOdds": 3.2,
+                        "outcomeResultId": 1,
+                        "scopeId": 2,
+                        "outcomeId": "6e0b4xv464x0xh8oqt",
+                        "maxOddsProviderId": 5,
+                        "active": true
+                    }
+                ],
+                "name": "Newcastle - Liverpool",
+                "colClassNameTime": "datet t1693150200-1-1-0-0"
+            },
+            {
+                "id": 6750560,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18113364,
+                "away": 18113365,
+                "home-name": "Burnley",
+                "away-name": "Aston Villa",
+                "home-country-two-chart-name": "198",
+                "away-country-two-chart-name": "198",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 71432,
+                "tournament-stage-id": 118530,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/O2x5pck9-6PhTI7J6.png?240821115140"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/WAsTaVl9-jwz95gs0.png?240821115140"
+                ],
+                "encodeEventId": "fq1q7GsE",
+                "colClassName": "datet t1693141200-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/england/premier-league-2023-2024/burnley-aston-villa-fq1q7GsE/",
+                "date-start-base": 1693141200,
+                "date-start-timestamp": 1693141200,
+                "result": "1:3",
+                "homeResult": "1",
+                "awayResult": "3",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "lost",
+                "away-winner": "win",
+                "postmatchResult": "1:3",
+                "info": null,
+                "partialresult": "0:2, 1:1",
+                "country-id": 198,
+                "country-name": "England",
+                "country-two-chart-name": 198,
+                "country-type": "State",
+                "tournament-id": 71432,
+                "tournament-name": "Premier League 2023/2024",
+                "tournament-url": "premier-league-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "England",
+                        "url": "/football/england/"
+                    },
+                    "tournament": {
+                        "name": "Premier League 2023/2024",
+                        "url": "/football/england/premier-league-2023-2024/"
+                    }
+                },
+                "stream": null,
+                "bookmakersCount": 13,
+                "betting_type": 1,
+                "winner_post": 2,
+                "odds": [
+                    {
+                        "avgOdds": 3.23,
+                        "bettingTypeId": 1,
+                        "eventId": 6750560,
+                        "maxOdds": 3.66,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0b0xv464x0xh8oqk",
+                        "maxOddsProviderId": 417,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 3.54,
+                        "bettingTypeId": 1,
+                        "eventId": 6750560,
+                        "maxOdds": 3.64,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0b0xv498x0x0",
+                        "maxOddsProviderId": 617,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 2.25,
+                        "bettingTypeId": 1,
+                        "eventId": 6750560,
+                        "maxOdds": 2.32,
+                        "outcomeResultId": 1,
+                        "scopeId": 2,
+                        "outcomeId": "6e0b0xv464x0xh8oql",
+                        "maxOddsProviderId": 5,
+                        "active": true
+                    }
+                ],
+                "name": "Burnley - Aston Villa",
+                "colClassNameTime": "datet t1693141200-1-1-0-0"
+            },
+            {
+                "id": 6750565,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18113374,
+                "away": 18113375,
+                "home-name": "Sheffield Utd",
+                "away-name": "Manchester City",
+                "home-country-two-chart-name": "198",
+                "away-country-two-chart-name": "198",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 71432,
+                "tournament-stage-id": 118530,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/MR0mG4Tc-K2FpWLH3.png?240821115140"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/bD5ctWmh-lQuhqN8N.png?240821115140"
+                ],
+                "encodeEventId": "0ppSbhkf",
+                "colClassName": "datet t1693141200-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/england/premier-league-2023-2024/sheffield-utd-manchester-city-0ppSbhkf/",
+                "date-start-base": 1693141200,
+                "date-start-timestamp": 1693141200,
+                "result": "1:2",
+                "homeResult": "1",
+                "awayResult": "2",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "lost",
+                "away-winner": "win",
+                "postmatchResult": "1:2",
+                "info": null,
+                "partialresult": "0:0, 1:2",
+                "country-id": 198,
+                "country-name": "England",
+                "country-two-chart-name": 198,
+                "country-type": "State",
+                "tournament-id": 71432,
+                "tournament-name": "Premier League 2023/2024",
+                "tournament-url": "premier-league-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "England",
+                        "url": "/football/england/"
+                    },
+                    "tournament": {
+                        "name": "Premier League 2023/2024",
+                        "url": "/football/england/premier-league-2023-2024/"
+                    }
+                },
+                "stream": null,
+                "bookmakersCount": 13,
+                "betting_type": 1,
+                "winner_post": 2,
+                "odds": [
+                    {
+                        "avgOdds": 14.36,
+                        "bettingTypeId": 1,
+                        "eventId": 6750565,
+                        "maxOdds": 16,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0b5xv464x0xh8oqu",
+                        "maxOddsProviderId": 575,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 7.15,
+                        "bettingTypeId": 1,
+                        "eventId": 6750565,
+                        "maxOdds": 7.49,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0b5xv498x0x0",
+                        "maxOddsProviderId": 417,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 1.21,
+                        "bettingTypeId": 1,
+                        "eventId": 6750565,
+                        "maxOdds": 1.23,
+                        "outcomeResultId": 1,
+                        "scopeId": 2,
+                        "outcomeId": "6e0b5xv464x0xh8oqv",
+                        "maxOddsProviderId": 5,
+                        "active": true
+                    }
+                ],
+                "name": "Sheffield Utd - Manchester City",
+                "colClassNameTime": "datet t1693141200-1-1-0-0"
+            },
+            {
+                "id": 6750559,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18113362,
+                "away": 18113363,
+                "home-name": "Brighton",
+                "away-name": "West Ham",
+                "home-country-two-chart-name": "198",
+                "away-country-two-chart-name": "198",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 71432,
+                "tournament-stage-id": 118530,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/MmmU7K6n-b92lfEJC.png?240821115140"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/pYvB3X73-ARW4wdCc.png?240821115140"
+                ],
+                "encodeEventId": "hvN0rX4D",
+                "colClassName": "datet t1693067400-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/england/premier-league-2023-2024/brighton-west-ham-hvN0rX4D/",
+                "date-start-base": 1693067400,
+                "date-start-timestamp": 1693067400,
+                "result": "1:3",
+                "homeResult": "1",
+                "awayResult": "3",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "lost",
+                "away-winner": "win",
+                "postmatchResult": "1:3",
+                "info": null,
+                "partialresult": "0:1, 1:2",
+                "country-id": 198,
+                "country-name": "England",
+                "country-two-chart-name": 198,
+                "country-type": "State",
+                "tournament-id": 71432,
+                "tournament-name": "Premier League 2023/2024",
+                "tournament-url": "premier-league-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "England",
+                        "url": "/football/england/"
+                    },
+                    "tournament": {
+                        "name": "Premier League 2023/2024",
+                        "url": "/football/england/premier-league-2023-2024/"
+                    }
+                },
+                "stream": null,
+                "bookmakersCount": 13,
+                "betting_type": 1,
+                "winner_post": 2,
+                "odds": [
+                    {
+                        "avgOdds": 1.51,
+                        "bettingTypeId": 1,
+                        "eventId": 6750559,
+                        "maxOdds": 1.57,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0avxv464x0xh8oqi",
+                        "maxOddsProviderId": 417,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 4.81,
+                        "bettingTypeId": 1,
+                        "eventId": 6750559,
+                        "maxOdds": 5,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0avxv498x0x0",
+                        "maxOddsProviderId": 584,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 5.87,
+                        "bettingTypeId": 1,
+                        "eventId": 6750559,
+                        "maxOdds": 6.25,
+                        "outcomeResultId": 1,
+                        "scopeId": 2,
+                        "outcomeId": "6e0avxv464x0xh8oqj",
+                        "maxOddsProviderId": 18,
+                        "active": true
+                    }
+                ],
+                "name": "Brighton - West Ham",
+                "colClassNameTime": "datet t1693067400-1-1-0-0"
+            },
+            {
+                "id": 6750557,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18113358,
+                "away": 18113359,
+                "home-name": "Arsenal",
+                "away-name": "Fulham",
+                "home-country-two-chart-name": "198",
+                "away-country-two-chart-name": "198",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 71432,
+                "tournament-stage-id": 118530,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/fwtiqyQt-vcNAdtF9.png?240821115140"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/drr9Im7n-ImMEe0UF.png?240821115140"
+                ],
+                "encodeEventId": "6NOhpgz1",
+                "colClassName": "datet t1693058400-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/england/premier-league-2023-2024/arsenal-fulham-6NOhpgz1/",
+                "date-start-base": 1693058400,
+                "date-start-timestamp": 1693058400,
+                "result": "2:2",
+                "homeResult": "2",
+                "awayResult": "2",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "draw",
+                "away-winner": "draw",
+                "postmatchResult": "2:2",
+                "info": null,
+                "partialresult": "0:1, 2:1",
+                "country-id": 198,
+                "country-name": "England",
+                "country-two-chart-name": 198,
+                "country-type": "State",
+                "tournament-id": 71432,
+                "tournament-name": "Premier League 2023/2024",
+                "tournament-url": "premier-league-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "England",
+                        "url": "/football/england/"
+                    },
+                    "tournament": {
+                        "name": "Premier League 2023/2024",
+                        "url": "/football/england/premier-league-2023-2024/"
+                    }
+                },
+                "stream": null,
+                "bookmakersCount": 13,
+                "betting_type": 1,
+                "winner_post": 1,
+                "odds": [
+                    {
+                        "avgOdds": 1.28,
+                        "bettingTypeId": 1,
+                        "eventId": 6750557,
+                        "maxOdds": 1.31,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0atxv464x0xh8oqe",
+                        "maxOddsProviderId": 3,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 5.99,
+                        "bettingTypeId": 1,
+                        "eventId": 6750557,
+                        "maxOdds": 6.29,
+                        "outcomeResultId": 1,
+                        "scopeId": 2,
+                        "outcomeId": "6e0atxv498x0x0",
+                        "maxOddsProviderId": 18,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 10.66,
+                        "bettingTypeId": 1,
+                        "eventId": 6750557,
+                        "maxOdds": 12,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0atxv464x0xh8oqf",
+                        "maxOddsProviderId": 5,
+                        "active": true
+                    }
+                ],
+                "name": "Arsenal - Fulham",
+                "colClassNameTime": "datet t1693058400-1-1-0-0"
+            },
+            {
+                "id": 6750558,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18113360,
+                "away": 18113361,
+                "home-name": "Brentford",
+                "away-name": "Crystal Palace",
+                "home-country-two-chart-name": "198",
+                "away-country-two-chart-name": "198",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 71432,
+                "tournament-stage-id": 118530,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/riC9AeRc-r9Mudk7j.png?240821115140"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/SIneXy73-pzMOQXRe.png?240821115140"
+                ],
+                "encodeEventId": "EmOdqDk7",
+                "colClassName": "datet t1693058400-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/england/premier-league-2023-2024/brentford-crystal-palace-EmOdqDk7/",
+                "date-start-base": 1693058400,
+                "date-start-timestamp": 1693058400,
+                "result": "1:1",
+                "homeResult": "1",
+                "awayResult": "1",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "draw",
+                "away-winner": "draw",
+                "postmatchResult": "1:1",
+                "info": null,
+                "partialresult": "1:0, 0:1",
+                "country-id": 198,
+                "country-name": "England",
+                "country-two-chart-name": 198,
+                "country-type": "State",
+                "tournament-id": 71432,
+                "tournament-name": "Premier League 2023/2024",
+                "tournament-url": "premier-league-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "England",
+                        "url": "/football/england/"
+                    },
+                    "tournament": {
+                        "name": "Premier League 2023/2024",
+                        "url": "/football/england/premier-league-2023-2024/"
+                    }
+                },
+                "stream": null,
+                "bookmakersCount": 13,
+                "betting_type": 1,
+                "winner_post": 1,
+                "odds": [
+                    {
+                        "avgOdds": 2.15,
+                        "bettingTypeId": 1,
+                        "eventId": 6750558,
+                        "maxOdds": 2.2,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0auxv464x0xh8oqg",
+                        "maxOddsProviderId": 575,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 3.35,
+                        "bettingTypeId": 1,
+                        "eventId": 6750558,
+                        "maxOdds": 3.45,
+                        "outcomeResultId": 1,
+                        "scopeId": 2,
+                        "outcomeId": "6e0auxv498x0x0",
+                        "maxOddsProviderId": 417,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 3.69,
+                        "bettingTypeId": 1,
+                        "eventId": 6750558,
+                        "maxOdds": 3.82,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0auxv464x0xh8oqh",
+                        "maxOddsProviderId": 617,
+                        "active": true
+                    }
+                ],
+                "name": "Brentford - Crystal Palace",
+                "colClassNameTime": "datet t1693058400-1-1-0-0"
+            },
+            {
+                "id": 6750562,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18113368,
+                "away": 18113369,
+                "home-name": "Everton",
+                "away-name": "Wolves",
+                "home-country-two-chart-name": "198",
+                "away-country-two-chart-name": "198",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 71432,
+                "tournament-stage-id": 118530,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/Cp7kPg6n-bRmKmISE.png?240821115140"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/MesiZT83-CjV6Eptm.png?240821115140"
+                ],
+                "encodeEventId": "294i5fCQ",
+                "colClassName": "datet t1693058400-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/england/premier-league-2023-2024/everton-wolves-294i5fCQ/",
+                "date-start-base": 1693058400,
+                "date-start-timestamp": 1693058400,
+                "result": "0:1",
+                "homeResult": "0",
+                "awayResult": "1",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "lost",
+                "away-winner": "win",
+                "postmatchResult": "0:1",
+                "info": null,
+                "partialresult": "0:0, 0:1",
+                "country-id": 198,
+                "country-name": "England",
+                "country-two-chart-name": 198,
+                "country-type": "State",
+                "tournament-id": 71432,
+                "tournament-name": "Premier League 2023/2024",
+                "tournament-url": "premier-league-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "England",
+                        "url": "/football/england/"
+                    },
+                    "tournament": {
+                        "name": "Premier League 2023/2024",
+                        "url": "/football/england/premier-league-2023-2024/"
+                    }
+                },
+                "stream": null,
+                "bookmakersCount": 13,
+                "betting_type": 1,
+                "winner_post": 2,
+                "odds": [
+                    {
+                        "avgOdds": 2.44,
+                        "bettingTypeId": 1,
+                        "eventId": 6750562,
+                        "maxOdds": 2.5,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0b2xv464x0xh8oqo",
+                        "maxOddsProviderId": 617,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 3.34,
+                        "bettingTypeId": 1,
+                        "eventId": 6750562,
+                        "maxOdds": 3.45,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0b2xv498x0x0",
+                        "maxOddsProviderId": 5,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 3.06,
+                        "bettingTypeId": 1,
+                        "eventId": 6750562,
+                        "maxOdds": 3.15,
+                        "outcomeResultId": 1,
+                        "scopeId": 2,
+                        "outcomeId": "6e0b2xv464x0xh8oqp",
+                        "maxOddsProviderId": 638,
+                        "active": true
+                    }
+                ],
+                "name": "Everton - Wolves",
+                "colClassNameTime": "datet t1693058400-1-1-0-0"
+            },
+            {
+                "id": 6750563,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18113370,
+                "away": 18113371,
+                "home-name": "Manchester Utd",
+                "away-name": "Nottingham",
+                "home-country-two-chart-name": "198",
+                "away-country-two-chart-name": "198",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 71432,
+                "tournament-stage-id": 118530,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/Wh0Sh09K-h2pPXz3k.png?240821115140"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/6uyUuh7n-ImKwLTtA.png?240821115140"
+                ],
+                "encodeEventId": "4IjJ0EKs",
+                "colClassName": "datet t1693058400-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/england/premier-league-2023-2024/manchester-united-nottingham-4IjJ0EKs/",
+                "date-start-base": 1693058400,
+                "date-start-timestamp": 1693058400,
+                "result": "3:2",
+                "homeResult": "3",
+                "awayResult": "2",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "win",
+                "away-winner": "lost",
+                "postmatchResult": "3:2",
+                "info": null,
+                "partialresult": "1:2, 2:0",
+                "country-id": 198,
+                "country-name": "England",
+                "country-two-chart-name": 198,
+                "country-type": "State",
+                "tournament-id": 71432,
+                "tournament-name": "Premier League 2023/2024",
+                "tournament-url": "premier-league-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "England",
+                        "url": "/football/england/"
+                    },
+                    "tournament": {
+                        "name": "Premier League 2023/2024",
+                        "url": "/football/england/premier-league-2023-2024/"
+                    }
+                },
+                "stream": null,
+                "bookmakersCount": 13,
+                "winner_post": 0,
+                "betting_type": 1,
+                "odds": [
+                    {
+                        "avgOdds": 1.36,
+                        "bettingTypeId": 1,
+                        "eventId": 6750563,
+                        "maxOdds": 1.38,
+                        "outcomeResultId": 1,
+                        "scopeId": 2,
+                        "outcomeId": "6e0b3xv464x0xh8oqq",
+                        "maxOddsProviderId": 18,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 5.23,
+                        "bettingTypeId": 1,
+                        "eventId": 6750563,
+                        "maxOdds": 5.6,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0b3xv498x0x0",
+                        "maxOddsProviderId": 5,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 8.26,
+                        "bettingTypeId": 1,
+                        "eventId": 6750563,
+                        "maxOdds": 8.83,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0b3xv464x0xh8oqr",
+                        "maxOddsProviderId": 417,
+                        "active": true
+                    }
+                ],
+                "name": "Manchester Utd - Nottingham",
+                "colClassNameTime": "datet t1693058400-1-1-0-0"
+            },
+            {
+                "id": 6750556,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18113356,
+                "away": 18113357,
+                "home-name": "Bournemouth",
+                "away-name": "Tottenham",
+                "home-country-two-chart-name": "198",
+                "away-country-two-chart-name": "198",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 71432,
+                "tournament-stage-id": 118530,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/Ewktd19K-tCGtX12c.png?240821115140"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/QwVidgl9-SOY3p1Si.png?240821115140"
+                ],
+                "encodeEventId": "SWPloZKf",
+                "colClassName": "datet t1693049400-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/england/premier-league-2023-2024/bournemouth-tottenham-SWPloZKf/",
+                "date-start-base": 1693049400,
+                "date-start-timestamp": 1693049400,
+                "result": "0:2",
+                "homeResult": "0",
+                "awayResult": "2",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "lost",
+                "away-winner": "win",
+                "postmatchResult": "0:2",
+                "info": null,
+                "partialresult": "0:1, 0:1",
+                "country-id": 198,
+                "country-name": "England",
+                "country-two-chart-name": 198,
+                "country-type": "State",
+                "tournament-id": 71432,
+                "tournament-name": "Premier League 2023/2024",
+                "tournament-url": "premier-league-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "England",
+                        "url": "/football/england/"
+                    },
+                    "tournament": {
+                        "name": "Premier League 2023/2024",
+                        "url": "/football/england/premier-league-2023-2024/"
+                    }
+                },
+                "stream": null,
+                "bookmakersCount": 13,
+                "betting_type": 1,
+                "winner_post": 2,
+                "odds": [
+                    {
+                        "avgOdds": 3.54,
+                        "bettingTypeId": 1,
+                        "eventId": 6750556,
+                        "maxOdds": 3.91,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0asxv464x0xh8oqc",
+                        "maxOddsProviderId": 417,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 3.86,
+                        "bettingTypeId": 1,
+                        "eventId": 6750556,
+                        "maxOdds": 3.98,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0asxv498x0x0",
+                        "maxOddsProviderId": 617,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 2.02,
+                        "bettingTypeId": 1,
+                        "eventId": 6750556,
+                        "maxOdds": 2.09,
+                        "outcomeResultId": 1,
+                        "scopeId": 2,
+                        "outcomeId": "6e0asxv464x0xh8oqd",
+                        "maxOddsProviderId": 18,
+                        "active": true
+                    }
+                ],
+                "name": "Bournemouth - Tottenham",
+                "colClassNameTime": "datet t1693049400-1-1-0-0"
+            },
+            {
+                "id": 6750561,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18113366,
+                "away": 18113367,
+                "home-name": "Chelsea",
+                "away-name": "Luton",
+                "home-country-two-chart-name": "198",
+                "away-country-two-chart-name": "198",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 71432,
+                "tournament-stage-id": 118530,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/4rCw0wTc-IROrZEJb.png?240821115140"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/lCpqAGBK-dATKxRKP.png?240821115140"
+                ],
+                "encodeEventId": "8n5m6zcK",
+                "colClassName": "datet t1692990000-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/england/premier-league-2023-2024/chelsea-luton-8n5m6zcK/",
+                "date-start-base": 1692990000,
+                "date-start-timestamp": 1692990000,
+                "result": "3:0",
+                "homeResult": "3",
+                "awayResult": "0",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "win",
+                "away-winner": "lost",
+                "postmatchResult": "3:0",
+                "info": null,
+                "partialresult": "1:0, 2:0",
+                "country-id": 198,
+                "country-name": "England",
+                "country-two-chart-name": 198,
+                "country-type": "State",
+                "tournament-id": 71432,
+                "tournament-name": "Premier League 2023/2024",
+                "tournament-url": "premier-league-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "England",
+                        "url": "/football/england/"
+                    },
+                    "tournament": {
+                        "name": "Premier League 2023/2024",
+                        "url": "/football/england/premier-league-2023-2024/"
+                    }
+                },
+                "stream": null,
+                "bookmakersCount": 13,
+                "winner_post": 0,
+                "betting_type": 1,
+                "odds": [
+                    {
+                        "avgOdds": 1.26,
+                        "bettingTypeId": 1,
+                        "eventId": 6750561,
+                        "maxOdds": 1.3,
+                        "outcomeResultId": 1,
+                        "scopeId": 2,
+                        "outcomeId": "6e0b1xv464x0xh8oqm",
+                        "maxOddsProviderId": 550,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 6.16,
+                        "bettingTypeId": 1,
+                        "eventId": 6750561,
+                        "maxOdds": 6.4,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0b1xv498x0x0",
+                        "maxOddsProviderId": 617,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 12.04,
+                        "bettingTypeId": 1,
+                        "eventId": 6750561,
+                        "maxOdds": 13,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0b1xv464x0xh8oqn",
+                        "maxOddsProviderId": 617,
+                        "active": true
+                    }
+                ],
+                "name": "Chelsea - Luton",
+                "colClassNameTime": "datet t1692990000-1-1-0-0"
+            },
+            {
+                "id": 6750547,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18113338,
+                "away": 18113339,
+                "home-name": "Crystal Palace",
+                "away-name": "Arsenal",
+                "home-country-two-chart-name": "198",
+                "away-country-two-chart-name": "198",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 71432,
+                "tournament-stage-id": 118530,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/SIneXy73-pzMOQXRe.png?240821115140"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/fwtiqyQt-vcNAdtF9.png?240821115140"
+                ],
+                "encodeEventId": "W4AAXFje",
+                "colClassName": "datet t1692644400-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/england/premier-league-2023-2024/crystal-palace-arsenal-W4AAXFje/",
+                "date-start-base": 1692644400,
+                "date-start-timestamp": 1692644400,
+                "result": "0:1",
+                "homeResult": "0",
+                "awayResult": "1",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "lost",
+                "away-winner": "win",
+                "postmatchResult": "0:1",
+                "info": null,
+                "partialresult": "0:0, 0:1",
+                "country-id": 198,
+                "country-name": "England",
+                "country-two-chart-name": 198,
+                "country-type": "State",
+                "tournament-id": 71432,
+                "tournament-name": "Premier League 2023/2024",
+                "tournament-url": "premier-league-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "England",
+                        "url": "/football/england/"
+                    },
+                    "tournament": {
+                        "name": "Premier League 2023/2024",
+                        "url": "/football/england/premier-league-2023-2024/"
+                    }
+                },
+                "stream": [],
+                "bookmakersCount": 14,
+                "betting_type": 1,
+                "winner_post": 2,
+                "odds": [
+                    {
+                        "avgOdds": 4.6,
+                        "bettingTypeId": 1,
+                        "eventId": 6750547,
+                        "maxOdds": 7.08,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0ajxv464x0xh8opq",
+                        "maxOddsProviderId": 451,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 3.56,
+                        "bettingTypeId": 1,
+                        "eventId": 6750547,
+                        "maxOdds": 4.34,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0ajxv498x0x0",
+                        "maxOddsProviderId": 451,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 1.87,
+                        "bettingTypeId": 1,
+                        "eventId": 6750547,
+                        "maxOdds": 1.98,
+                        "outcomeResultId": 1,
+                        "scopeId": 2,
+                        "outcomeId": "6e0ajxv464x0xh8opr",
+                        "maxOddsProviderId": 550,
+                        "active": true
+                    }
+                ],
+                "name": "Crystal Palace - Arsenal",
+                "colClassNameTime": "datet t1692644400-1-1-0-0"
+            },
+            {
+                "id": 6750554,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18113352,
+                "away": 18113353,
+                "home-name": "West Ham",
+                "away-name": "Chelsea",
+                "home-country-two-chart-name": "198",
+                "away-country-two-chart-name": "198",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 71432,
+                "tournament-stage-id": 118530,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/pYvB3X73-ARW4wdCc.png?240821115140"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/4rCw0wTc-IROrZEJb.png?240821115140"
+                ],
+                "encodeEventId": "W4Wumejr",
+                "colClassName": "datet t1692545400-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/england/premier-league-2023-2024/west-ham-chelsea-W4Wumejr/",
+                "date-start-base": 1692545400,
+                "date-start-timestamp": 1692545400,
+                "result": "3:1",
+                "homeResult": "3",
+                "awayResult": "1",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "win",
+                "away-winner": "lost",
+                "postmatchResult": "3:1",
+                "info": null,
+                "partialresult": "1:1, 2:0",
+                "country-id": 198,
+                "country-name": "England",
+                "country-two-chart-name": 198,
+                "country-type": "State",
+                "tournament-id": 71432,
+                "tournament-name": "Premier League 2023/2024",
+                "tournament-url": "premier-league-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "England",
+                        "url": "/football/england/"
+                    },
+                    "tournament": {
+                        "name": "Premier League 2023/2024",
+                        "url": "/football/england/premier-league-2023-2024/"
+                    }
+                },
+                "stream": null,
+                "bookmakersCount": 14,
+                "winner_post": 0,
+                "betting_type": 1,
+                "odds": [
+                    {
+                        "avgOdds": 3.44,
+                        "bettingTypeId": 1,
+                        "eventId": 6750554,
+                        "maxOdds": 4.88,
+                        "outcomeResultId": 1,
+                        "scopeId": 2,
+                        "outcomeId": "6e0aqxv464x0xh8oq8",
+                        "maxOddsProviderId": 451,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 3.61,
+                        "bettingTypeId": 1,
+                        "eventId": 6750554,
+                        "maxOdds": 3.79,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0aqxv498x0x0",
+                        "maxOddsProviderId": 451,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 2.14,
+                        "bettingTypeId": 1,
+                        "eventId": 6750554,
+                        "maxOdds": 2.27,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0aqxv464x0xh8oq9",
+                        "maxOddsProviderId": 18,
+                        "active": true
+                    }
+                ],
+                "name": "West Ham - Chelsea",
+                "colClassNameTime": "datet t1692545400-1-1-0-0"
+            },
+            {
+                "id": 6750546,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18113336,
+                "away": 18113337,
+                "home-name": "Aston Villa",
+                "away-name": "Everton",
+                "home-country-two-chart-name": "198",
+                "away-country-two-chart-name": "198",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 71432,
+                "tournament-stage-id": 118530,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/WAsTaVl9-jwz95gs0.png?240821115140"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/Cp7kPg6n-bRmKmISE.png?240821115140"
+                ],
+                "encodeEventId": "hEB6Yeyk",
+                "colClassName": "datet t1692536400-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/england/premier-league-2023-2024/aston-villa-everton-hEB6Yeyk/",
+                "date-start-base": 1692536400,
+                "date-start-timestamp": 1692536400,
+                "result": "4:0",
+                "homeResult": "4",
+                "awayResult": "0",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "win",
+                "away-winner": "lost",
+                "postmatchResult": "4:0",
+                "info": null,
+                "partialresult": "2:0, 2:0",
+                "country-id": 198,
+                "country-name": "England",
+                "country-two-chart-name": 198,
+                "country-type": "State",
+                "tournament-id": 71432,
+                "tournament-name": "Premier League 2023/2024",
+                "tournament-url": "premier-league-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "England",
+                        "url": "/football/england/"
+                    },
+                    "tournament": {
+                        "name": "Premier League 2023/2024",
+                        "url": "/football/england/premier-league-2023-2024/"
+                    }
+                },
+                "stream": null,
+                "bookmakersCount": 14,
+                "winner_post": 0,
+                "betting_type": 1,
+                "odds": [
+                    {
+                        "avgOdds": 1.85,
+                        "bettingTypeId": 1,
+                        "eventId": 6750546,
+                        "maxOdds": 1.97,
+                        "outcomeResultId": 1,
+                        "scopeId": 2,
+                        "outcomeId": "6e0aixv464x0xh8opo",
+                        "maxOddsProviderId": 451,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 3.8,
+                        "bettingTypeId": 1,
+                        "eventId": 6750546,
+                        "maxOdds": 3.92,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0aixv498x0x0",
+                        "maxOddsProviderId": 18,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 4.24,
+                        "bettingTypeId": 1,
+                        "eventId": 6750546,
+                        "maxOdds": 4.68,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0aixv464x0xh8opp",
+                        "maxOddsProviderId": 417,
+                        "active": true
+                    }
+                ],
+                "name": "Aston Villa - Everton",
+                "colClassNameTime": "datet t1692536400-1-1-0-0"
+            },
+            {
+                "id": 6750551,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18113346,
+                "away": 18113347,
+                "home-name": "Manchester City",
+                "away-name": "Newcastle",
+                "home-country-two-chart-name": "198",
+                "away-country-two-chart-name": "198",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 71432,
+                "tournament-stage-id": 118530,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/bD5ctWmh-lQuhqN8N.png?240821115140"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/KWip625n-ImMEe0UF.png?240821115140"
+                ],
+                "encodeEventId": "Icj5gcDE",
+                "colClassName": "datet t1692471600-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/england/premier-league-2023-2024/manchester-city-newcastle-utd-Icj5gcDE/",
+                "date-start-base": 1692471600,
+                "date-start-timestamp": 1692471600,
+                "result": "1:0",
+                "homeResult": "1",
+                "awayResult": "0",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "win",
+                "away-winner": "lost",
+                "postmatchResult": "1:0",
+                "info": null,
+                "partialresult": "1:0, 0:0",
+                "country-id": 198,
+                "country-name": "England",
+                "country-two-chart-name": 198,
+                "country-type": "State",
+                "tournament-id": 71432,
+                "tournament-name": "Premier League 2023/2024",
+                "tournament-url": "premier-league-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "England",
+                        "url": "/football/england/"
+                    },
+                    "tournament": {
+                        "name": "Premier League 2023/2024",
+                        "url": "/football/england/premier-league-2023-2024/"
+                    }
+                },
+                "stream": null,
+                "bookmakersCount": 14,
+                "winner_post": 0,
+                "betting_type": 1,
+                "odds": [
+                    {
+                        "avgOdds": 1.84,
+                        "bettingTypeId": 1,
+                        "eventId": 6750551,
+                        "maxOdds": 1.93,
+                        "outcomeResultId": 1,
+                        "scopeId": 2,
+                        "outcomeId": "6e0anxv464x0xh8oq2",
+                        "maxOddsProviderId": 451,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 3.79,
+                        "bettingTypeId": 1,
+                        "eventId": 6750551,
+                        "maxOdds": 4.05,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0anxv498x0x0",
+                        "maxOddsProviderId": 550,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 4.32,
+                        "bettingTypeId": 1,
+                        "eventId": 6750551,
+                        "maxOdds": 4.76,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0anxv464x0xh8oq3",
+                        "maxOddsProviderId": 417,
+                        "active": true
+                    }
+                ],
+                "name": "Manchester City - Newcastle",
+                "colClassNameTime": "datet t1692471600-1-1-0-0"
+            },
+            {
+                "id": 6750553,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18113350,
+                "away": 18113351,
+                "home-name": "Tottenham",
+                "away-name": "Manchester Utd",
+                "home-country-two-chart-name": "198",
+                "away-country-two-chart-name": "198",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 71432,
+                "tournament-stage-id": 118530,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/QwVidgl9-SOY3p1Si.png?240821115140"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/Wh0Sh09K-h2pPXz3k.png?240821115140"
+                ],
+                "encodeEventId": "EPqEiyrR",
+                "colClassName": "datet t1692462600-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/england/premier-league-2023-2024/tottenham-manchester-united-EPqEiyrR/",
+                "date-start-base": 1692462600,
+                "date-start-timestamp": 1692462600,
+                "result": "2:0",
+                "homeResult": "2",
+                "awayResult": "0",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "win",
+                "away-winner": "lost",
+                "postmatchResult": "2:0",
+                "info": null,
+                "partialresult": "0:0, 2:0",
+                "country-id": 198,
+                "country-name": "England",
+                "country-two-chart-name": 198,
+                "country-type": "State",
+                "tournament-id": 71432,
+                "tournament-name": "Premier League 2023/2024",
+                "tournament-url": "premier-league-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "England",
+                        "url": "/football/england/"
+                    },
+                    "tournament": {
+                        "name": "Premier League 2023/2024",
+                        "url": "/football/england/premier-league-2023-2024/"
+                    }
+                },
+                "stream": null,
+                "bookmakersCount": 14,
+                "winner_post": 0,
+                "betting_type": 1,
+                "odds": [
+                    {
+                        "avgOdds": 3.1,
+                        "bettingTypeId": 1,
+                        "eventId": 6750553,
+                        "maxOdds": 3.77,
+                        "outcomeResultId": 1,
+                        "scopeId": 2,
+                        "outcomeId": "6e0apxv464x0xh8oq6",
+                        "maxOddsProviderId": 451,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 3.76,
+                        "bettingTypeId": 1,
+                        "eventId": 6750553,
+                        "maxOdds": 3.87,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0apxv498x0x0",
+                        "maxOddsProviderId": 18,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 2.18,
+                        "bettingTypeId": 1,
+                        "eventId": 6750553,
+                        "maxOdds": 2.33,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0apxv464x0xh8oq7",
+                        "maxOddsProviderId": 550,
+                        "active": true
+                    }
+                ],
+                "name": "Tottenham - Manchester Utd",
+                "colClassNameTime": "datet t1692462600-1-1-0-0"
+            },
+            {
+                "id": 6750548,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18113340,
+                "away": 18113341,
+                "home-name": "Fulham",
+                "away-name": "Brentford",
+                "home-country-two-chart-name": "198",
+                "away-country-two-chart-name": "198",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 71432,
+                "tournament-stage-id": 118530,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/drr9Im7n-ImMEe0UF.png?240821115140"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/riC9AeRc-r9Mudk7j.png?240821115140"
+                ],
+                "encodeEventId": "ETaFWZ51",
+                "colClassName": "datet t1692453600-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/england/premier-league-2023-2024/fulham-brentford-ETaFWZ51/",
+                "date-start-base": 1692453600,
+                "date-start-timestamp": 1692453600,
+                "result": "0:3",
+                "homeResult": "0",
+                "awayResult": "3",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "lost",
+                "away-winner": "win",
+                "postmatchResult": "0:3",
+                "info": null,
+                "partialresult": "0:1, 0:2",
+                "country-id": 198,
+                "country-name": "England",
+                "country-two-chart-name": 198,
+                "country-type": "State",
+                "tournament-id": 71432,
+                "tournament-name": "Premier League 2023/2024",
+                "tournament-url": "premier-league-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "England",
+                        "url": "/football/england/"
+                    },
+                    "tournament": {
+                        "name": "Premier League 2023/2024",
+                        "url": "/football/england/premier-league-2023-2024/"
+                    }
+                },
+                "stream": null,
+                "bookmakersCount": 14,
+                "betting_type": 1,
+                "winner_post": 2,
+                "odds": [
+                    {
+                        "avgOdds": 2.87,
+                        "bettingTypeId": 1,
+                        "eventId": 6750548,
+                        "maxOdds": 3.37,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0akxv464x0xh8ops",
+                        "maxOddsProviderId": 451,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 3.21,
+                        "bettingTypeId": 1,
+                        "eventId": 6750548,
+                        "maxOdds": 3.36,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0akxv498x0x0",
+                        "maxOddsProviderId": 451,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 2.65,
+                        "bettingTypeId": 1,
+                        "eventId": 6750548,
+                        "maxOdds": 2.83,
+                        "outcomeResultId": 1,
+                        "scopeId": 2,
+                        "outcomeId": "6e0akxv464x0xh8opt",
+                        "maxOddsProviderId": 417,
+                        "active": true
+                    }
+                ],
+                "name": "Fulham - Brentford",
+                "colClassNameTime": "datet t1692453600-1-1-0-0"
+            },
+            {
+                "id": 6750549,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18113342,
+                "away": 18113343,
+                "home-name": "Liverpool",
+                "away-name": "Bournemouth",
+                "home-country-two-chart-name": "198",
+                "away-country-two-chart-name": "198",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 71432,
+                "tournament-stage-id": 118530,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/jmWrVR93-feQECFUo.png?240821115140"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/Ewktd19K-tCGtX12c.png?240821115140"
+                ],
+                "encodeEventId": "Q33JVgL7",
+                "colClassName": "datet t1692453600-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/england/premier-league-2023-2024/liverpool-bournemouth-Q33JVgL7/",
+                "date-start-base": 1692453600,
+                "date-start-timestamp": 1692453600,
+                "result": "3:1",
+                "homeResult": "3",
+                "awayResult": "1",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "win",
+                "away-winner": "lost",
+                "postmatchResult": "3:1",
+                "info": null,
+                "partialresult": "2:1, 1:0",
+                "country-id": 198,
+                "country-name": "England",
+                "country-two-chart-name": 198,
+                "country-type": "State",
+                "tournament-id": 71432,
+                "tournament-name": "Premier League 2023/2024",
+                "tournament-url": "premier-league-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "England",
+                        "url": "/football/england/"
+                    },
+                    "tournament": {
+                        "name": "Premier League 2023/2024",
+                        "url": "/football/england/premier-league-2023-2024/"
+                    }
+                },
+                "stream": null,
+                "bookmakersCount": 14,
+                "winner_post": 0,
+                "betting_type": 1,
+                "odds": [
+                    {
+                        "avgOdds": 1.2,
+                        "bettingTypeId": 1,
+                        "eventId": 6750549,
+                        "maxOdds": 1.22,
+                        "outcomeResultId": 1,
+                        "scopeId": 2,
+                        "outcomeId": "6e0alxv464x0xh8opu",
+                        "maxOddsProviderId": 417,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 7.58,
+                        "bettingTypeId": 1,
+                        "eventId": 6750549,
+                        "maxOdds": 8.4,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0alxv498x0x0",
+                        "maxOddsProviderId": 617,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 13.29,
+                        "bettingTypeId": 1,
+                        "eventId": 6750549,
+                        "maxOdds": 21.15,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0alxv464x0xh8opv",
+                        "maxOddsProviderId": 451,
+                        "active": true
+                    }
+                ],
+                "name": "Liverpool - Bournemouth",
+                "colClassNameTime": "datet t1692453600-1-1-0-0"
+            },
+            {
+                "id": 6750555,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18113354,
+                "away": 18113355,
+                "home-name": "Wolves",
+                "away-name": "Brighton",
+                "home-country-two-chart-name": "198",
+                "away-country-two-chart-name": "198",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 71432,
+                "tournament-stage-id": 118530,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/MesiZT83-CjV6Eptm.png?240821115140"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/MmmU7K6n-b92lfEJC.png?240821115140"
+                ],
+                "encodeEventId": "p8zpnF5l",
+                "colClassName": "datet t1692453600-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/england/premier-league-2023-2024/wolves-brighton-p8zpnF5l/",
+                "date-start-base": 1692453600,
+                "date-start-timestamp": 1692453600,
+                "result": "1:4",
+                "homeResult": "1",
+                "awayResult": "4",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "lost",
+                "away-winner": "win",
+                "postmatchResult": "1:4",
+                "info": null,
+                "partialresult": "0:1, 1:3",
+                "country-id": 198,
+                "country-name": "England",
+                "country-two-chart-name": 198,
+                "country-type": "State",
+                "tournament-id": 71432,
+                "tournament-name": "Premier League 2023/2024",
+                "tournament-url": "premier-league-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "England",
+                        "url": "/football/england/"
+                    },
+                    "tournament": {
+                        "name": "Premier League 2023/2024",
+                        "url": "/football/england/premier-league-2023-2024/"
+                    }
+                },
+                "stream": null,
+                "bookmakersCount": 14,
+                "betting_type": 1,
+                "winner_post": 2,
+                "odds": [
+                    {
+                        "avgOdds": 4.25,
+                        "bettingTypeId": 1,
+                        "eventId": 6750555,
+                        "maxOdds": 5.21,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0arxv464x0xh8oqa",
+                        "maxOddsProviderId": 451,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 4.05,
+                        "bettingTypeId": 1,
+                        "eventId": 6750555,
+                        "maxOdds": 4.21,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0arxv498x0x0",
+                        "maxOddsProviderId": 18,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 1.79,
+                        "bettingTypeId": 1,
+                        "eventId": 6750555,
+                        "maxOdds": 1.88,
+                        "outcomeResultId": 1,
+                        "scopeId": 2,
+                        "outcomeId": "6e0arxv464x0xh8oqb",
+                        "maxOddsProviderId": 5,
+                        "active": true
+                    }
+                ],
+                "name": "Wolves - Brighton",
+                "colClassNameTime": "datet t1692453600-1-1-0-0"
+            },
+            {
+                "id": 6750552,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18113348,
+                "away": 18113349,
+                "home-name": "Nottingham",
+                "away-name": "Sheffield Utd",
+                "home-country-two-chart-name": "198",
+                "away-country-two-chart-name": "198",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 71432,
+                "tournament-stage-id": 118530,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/6uyUuh7n-ImKwLTtA.png?240821115140"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/MR0mG4Tc-K2FpWLH3.png?240821115140"
+                ],
+                "encodeEventId": "zZpAhHSK",
+                "colClassName": "datet t1692384300-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/england/premier-league-2023-2024/nottingham-sheffield-utd-zZpAhHSK/",
+                "date-start-base": 1692384300,
+                "date-start-timestamp": 1692384300,
+                "result": "2:1",
+                "homeResult": "2",
+                "awayResult": "1",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "win",
+                "away-winner": "lost",
+                "postmatchResult": "2:1",
+                "info": null,
+                "partialresult": "1:0, 1:1",
+                "country-id": 198,
+                "country-name": "England",
+                "country-two-chart-name": 198,
+                "country-type": "State",
+                "tournament-id": 71432,
+                "tournament-name": "Premier League 2023/2024",
+                "tournament-url": "premier-league-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "England",
+                        "url": "/football/england/"
+                    },
+                    "tournament": {
+                        "name": "Premier League 2023/2024",
+                        "url": "/football/england/premier-league-2023-2024/"
+                    }
+                },
+                "stream": null,
+                "bookmakersCount": 14,
+                "winner_post": 0,
+                "betting_type": 1,
+                "odds": [
+                    {
+                        "avgOdds": 1.96,
+                        "bettingTypeId": 1,
+                        "eventId": 6750552,
+                        "maxOdds": 2.3,
+                        "outcomeResultId": 1,
+                        "scopeId": 2,
+                        "outcomeId": "6e0aoxv464x0xh8oq4",
+                        "maxOddsProviderId": 451,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 3.43,
+                        "bettingTypeId": 1,
+                        "eventId": 6750552,
+                        "maxOdds": 3.51,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0aoxv498x0x0",
+                        "maxOddsProviderId": 575,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 4.25,
+                        "bettingTypeId": 1,
+                        "eventId": 6750552,
+                        "maxOdds": 4.78,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0aoxv464x0xh8oq5",
+                        "maxOddsProviderId": 417,
+                        "active": true
+                    }
+                ],
+                "name": "Nottingham - Sheffield Utd",
+                "colClassNameTime": "datet t1692384300-1-1-0-0"
+            },
+            {
+                "id": 6750544,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18113332,
+                "away": 18113333,
+                "home-name": "Manchester Utd",
+                "away-name": "Wolves",
+                "home-country-two-chart-name": "198",
+                "away-country-two-chart-name": "198",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 71432,
+                "tournament-stage-id": 118530,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/Wh0Sh09K-h2pPXz3k.png?240821115140"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/MesiZT83-CjV6Eptm.png?240821115140"
+                ],
+                "encodeEventId": "MVKzvIDR",
+                "colClassName": "datet t1692039600-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/england/premier-league-2023-2024/manchester-united-wolves-MVKzvIDR/",
+                "date-start-base": 1692039600,
+                "date-start-timestamp": 1692039600,
+                "result": "1:0",
+                "homeResult": "1",
+                "awayResult": "0",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "win",
+                "away-winner": "lost",
+                "postmatchResult": "1:0",
+                "info": null,
+                "partialresult": "0:0, 1:0",
+                "country-id": 198,
+                "country-name": "England",
+                "country-two-chart-name": 198,
+                "country-type": "State",
+                "tournament-id": 71432,
+                "tournament-name": "Premier League 2023/2024",
+                "tournament-url": "premier-league-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "England",
+                        "url": "/football/england/"
+                    },
+                    "tournament": {
+                        "name": "Premier League 2023/2024",
+                        "url": "/football/england/premier-league-2023-2024/"
+                    }
+                },
+                "stream": null,
+                "bookmakersCount": 14,
+                "winner_post": 0,
+                "betting_type": 1,
+                "odds": [
+                    {
+                        "avgOdds": 1.27,
+                        "bettingTypeId": 1,
+                        "eventId": 6750544,
+                        "maxOdds": 1.3,
+                        "outcomeResultId": 1,
+                        "scopeId": 2,
+                        "outcomeId": "6e0agxv464x0xh8opk",
+                        "maxOddsProviderId": 550,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 6.23,
+                        "bettingTypeId": 1,
+                        "eventId": 6750544,
+                        "maxOdds": 8.67,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0agxv498x0x0",
+                        "maxOddsProviderId": 451,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 10.88,
+                        "bettingTypeId": 1,
+                        "eventId": 6750544,
+                        "maxOdds": 13,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0agxv464x0xh8opl",
+                        "maxOddsProviderId": 5,
+                        "active": true
+                    }
+                ],
+                "name": "Manchester Utd - Wolves",
+                "colClassNameTime": "datet t1692039600-1-1-0-0"
+            },
+            {
+                "id": 6750543,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18113330,
+                "away": 18113331,
+                "home-name": "Chelsea",
+                "away-name": "Liverpool",
+                "home-country-two-chart-name": "198",
+                "away-country-two-chart-name": "198",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 71432,
+                "tournament-stage-id": 118530,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/4rCw0wTc-IROrZEJb.png?240821115140"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/jmWrVR93-feQECFUo.png?240821115140"
+                ],
+                "encodeEventId": "v7VVvbbL",
+                "colClassName": "datet t1691940600-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/england/premier-league-2023-2024/chelsea-liverpool-v7VVvbbL/",
+                "date-start-base": 1691940600,
+                "date-start-timestamp": 1691940600,
+                "result": "1:1",
+                "homeResult": "1",
+                "awayResult": "1",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "draw",
+                "away-winner": "draw",
+                "postmatchResult": "1:1",
+                "info": null,
+                "partialresult": "1:1, 0:0",
+                "country-id": 198,
+                "country-name": "England",
+                "country-two-chart-name": 198,
+                "country-type": "State",
+                "tournament-id": 71432,
+                "tournament-name": "Premier League 2023/2024",
+                "tournament-url": "premier-league-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "England",
+                        "url": "/football/england/"
+                    },
+                    "tournament": {
+                        "name": "Premier League 2023/2024",
+                        "url": "/football/england/premier-league-2023-2024/"
+                    }
+                },
+                "stream": null,
+                "bookmakersCount": 14,
+                "betting_type": 1,
+                "winner_post": 1,
+                "odds": [
+                    {
+                        "avgOdds": 3.06,
+                        "bettingTypeId": 1,
+                        "eventId": 6750543,
+                        "maxOdds": 3.45,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0afxv464x0xh8opi",
+                        "maxOddsProviderId": 417,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 3.74,
+                        "bettingTypeId": 1,
+                        "eventId": 6750543,
+                        "maxOdds": 3.9,
+                        "outcomeResultId": 1,
+                        "scopeId": 2,
+                        "outcomeId": "6e0afxv498x0x0",
+                        "maxOddsProviderId": 575,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 2.26,
+                        "bettingTypeId": 1,
+                        "eventId": 6750543,
+                        "maxOdds": 2.37,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0afxv464x0xh8opj",
+                        "maxOddsProviderId": 617,
+                        "active": true
+                    }
+                ],
+                "name": "Chelsea - Liverpool",
+                "colClassNameTime": "datet t1691940600-1-1-0-0"
+            },
+            {
+                "id": 6750542,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18113328,
+                "away": 18113329,
+                "home-name": "Brentford",
+                "away-name": "Tottenham",
+                "home-country-two-chart-name": "198",
+                "away-country-two-chart-name": "198",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 71432,
+                "tournament-stage-id": 118530,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/riC9AeRc-r9Mudk7j.png?240821115140"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/QwVidgl9-SOY3p1Si.png?240821115140"
+                ],
+                "encodeEventId": "Q3RRuvqF",
+                "colClassName": "datet t1691931600-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/england/premier-league-2023-2024/brentford-tottenham-Q3RRuvqF/",
+                "date-start-base": 1691931600,
+                "date-start-timestamp": 1691931600,
+                "result": "2:2",
+                "homeResult": "2",
+                "awayResult": "2",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "draw",
+                "away-winner": "draw",
+                "postmatchResult": "2:2",
+                "info": null,
+                "partialresult": "2:2, 0:0",
+                "country-id": 198,
+                "country-name": "England",
+                "country-two-chart-name": 198,
+                "country-type": "State",
+                "tournament-id": 71432,
+                "tournament-name": "Premier League 2023/2024",
+                "tournament-url": "premier-league-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "England",
+                        "url": "/football/england/"
+                    },
+                    "tournament": {
+                        "name": "Premier League 2023/2024",
+                        "url": "/football/england/premier-league-2023-2024/"
+                    }
+                },
+                "stream": null,
+                "bookmakersCount": 14,
+                "betting_type": 1,
+                "winner_post": 1,
+                "odds": [
+                    {
+                        "avgOdds": 2.64,
+                        "bettingTypeId": 1,
+                        "eventId": 6750542,
+                        "maxOdds": 2.81,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0aexv464x0xh8opg",
+                        "maxOddsProviderId": 417,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 3.54,
+                        "bettingTypeId": 1,
+                        "eventId": 6750542,
+                        "maxOdds": 3.7,
+                        "outcomeResultId": 1,
+                        "scopeId": 2,
+                        "outcomeId": "6e0aexv498x0x0",
+                        "maxOddsProviderId": 417,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 2.67,
+                        "bettingTypeId": 1,
+                        "eventId": 6750542,
+                        "maxOdds": 2.8,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0aexv464x0xh8oph",
+                        "maxOddsProviderId": 575,
+                        "active": true
+                    }
+                ],
+                "name": "Brentford - Tottenham",
+                "colClassNameTime": "datet t1691931600-1-1-0-0"
+            },
+            {
+                "id": 6750541,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18113326,
+                "away": 18113327,
+                "home-name": "Newcastle",
+                "away-name": "Aston Villa",
+                "home-country-two-chart-name": "198",
+                "away-country-two-chart-name": "198",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 71432,
+                "tournament-stage-id": 118530,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/KWip625n-ImMEe0UF.png?240821115140"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/WAsTaVl9-jwz95gs0.png?240821115140"
+                ],
+                "encodeEventId": "WtSNtKT8",
+                "colClassName": "datet t1691857800-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/england/premier-league-2023-2024/newcastle-utd-aston-villa-WtSNtKT8/",
+                "date-start-base": 1691857800,
+                "date-start-timestamp": 1691857800,
+                "result": "5:1",
+                "homeResult": "5",
+                "awayResult": "1",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "win",
+                "away-winner": "lost",
+                "postmatchResult": "5:1",
+                "info": null,
+                "partialresult": "2:1, 3:0",
+                "country-id": 198,
+                "country-name": "England",
+                "country-two-chart-name": 198,
+                "country-type": "State",
+                "tournament-id": 71432,
+                "tournament-name": "Premier League 2023/2024",
+                "tournament-url": "premier-league-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "England",
+                        "url": "/football/england/"
+                    },
+                    "tournament": {
+                        "name": "Premier League 2023/2024",
+                        "url": "/football/england/premier-league-2023-2024/"
+                    }
+                },
+                "stream": null,
+                "bookmakersCount": 14,
+                "winner_post": 0,
+                "betting_type": 1,
+                "odds": [
+                    {
+                        "avgOdds": 1.66,
+                        "bettingTypeId": 1,
+                        "eventId": 6750541,
+                        "maxOdds": 1.77,
+                        "outcomeResultId": 1,
+                        "scopeId": 2,
+                        "outcomeId": "6e0adxv464x0xh8ope",
+                        "maxOddsProviderId": 451,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 4.14,
+                        "bettingTypeId": 1,
+                        "eventId": 6750541,
+                        "maxOdds": 4.3,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0adxv498x0x0",
+                        "maxOddsProviderId": 5,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 5.16,
+                        "bettingTypeId": 1,
+                        "eventId": 6750541,
+                        "maxOdds": 5.64,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0adxv464x0xh8opf",
+                        "maxOddsProviderId": 417,
+                        "active": true
+                    }
+                ],
+                "name": "Newcastle - Aston Villa",
+                "colClassNameTime": "datet t1691857800-1-1-0-0"
+            },
+            {
+                "id": 6750537,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18113318,
+                "away": 18113319,
+                "home-name": "Bournemouth",
+                "away-name": "West Ham",
+                "home-country-two-chart-name": "198",
+                "away-country-two-chart-name": "198",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 71432,
+                "tournament-stage-id": 118530,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/Ewktd19K-tCGtX12c.png?240821115140"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/pYvB3X73-ARW4wdCc.png?240821115140"
+                ],
+                "encodeEventId": "YZ9yLx7k",
+                "colClassName": "datet t1691848800-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/england/premier-league-2023-2024/bournemouth-west-ham-YZ9yLx7k/",
+                "date-start-base": 1691848800,
+                "date-start-timestamp": 1691848800,
+                "result": "1:1",
+                "homeResult": "1",
+                "awayResult": "1",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "draw",
+                "away-winner": "draw",
+                "postmatchResult": "1:1",
+                "info": null,
+                "partialresult": "0:0, 1:1",
+                "country-id": 198,
+                "country-name": "England",
+                "country-two-chart-name": 198,
+                "country-type": "State",
+                "tournament-id": 71432,
+                "tournament-name": "Premier League 2023/2024",
+                "tournament-url": "premier-league-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "England",
+                        "url": "/football/england/"
+                    },
+                    "tournament": {
+                        "name": "Premier League 2023/2024",
+                        "url": "/football/england/premier-league-2023-2024/"
+                    }
+                },
+                "stream": null,
+                "bookmakersCount": 14,
+                "betting_type": 1,
+                "winner_post": 1,
+                "odds": [
+                    {
+                        "avgOdds": 2.72,
+                        "bettingTypeId": 1,
+                        "eventId": 6750537,
+                        "maxOdds": 2.88,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0a9xv464x0xh8op6",
+                        "maxOddsProviderId": 417,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 3.52,
+                        "bettingTypeId": 1,
+                        "eventId": 6750537,
+                        "maxOdds": 3.67,
+                        "outcomeResultId": 1,
+                        "scopeId": 2,
+                        "outcomeId": "6e0a9xv498x0x0",
+                        "maxOddsProviderId": 550,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 2.61,
+                        "bettingTypeId": 1,
+                        "eventId": 6750537,
+                        "maxOdds": 2.7,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0a9xv464x0xh8op7",
+                        "maxOddsProviderId": 5,
+                        "active": true
+                    }
+                ],
+                "name": "Bournemouth - West Ham",
+                "colClassNameTime": "datet t1691848800-1-1-0-0"
+            },
+            {
+                "id": 6750538,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18113320,
+                "away": 18113321,
+                "home-name": "Brighton",
+                "away-name": "Luton",
+                "home-country-two-chart-name": "198",
+                "away-country-two-chart-name": "198",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 71432,
+                "tournament-stage-id": 118530,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/MmmU7K6n-b92lfEJC.png?240821115140"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/lCpqAGBK-dATKxRKP.png?240821115140"
+                ],
+                "encodeEventId": "Sd9uKdMe",
+                "colClassName": "datet t1691848800-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/england/premier-league-2023-2024/brighton-luton-Sd9uKdMe/",
+                "date-start-base": 1691848800,
+                "date-start-timestamp": 1691848800,
+                "result": "4:1",
+                "homeResult": "4",
+                "awayResult": "1",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "win",
+                "away-winner": "lost",
+                "postmatchResult": "4:1",
+                "info": null,
+                "partialresult": "1:0, 3:1",
+                "country-id": 198,
+                "country-name": "England",
+                "country-two-chart-name": 198,
+                "country-type": "State",
+                "tournament-id": 71432,
+                "tournament-name": "Premier League 2023/2024",
+                "tournament-url": "premier-league-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "England",
+                        "url": "/football/england/"
+                    },
+                    "tournament": {
+                        "name": "Premier League 2023/2024",
+                        "url": "/football/england/premier-league-2023-2024/"
+                    }
+                },
+                "stream": null,
+                "bookmakersCount": 14,
+                "winner_post": 0,
+                "betting_type": 1,
+                "odds": [
+                    {
+                        "avgOdds": 1.29,
+                        "bettingTypeId": 1,
+                        "eventId": 6750538,
+                        "maxOdds": 1.33,
+                        "outcomeResultId": 1,
+                        "scopeId": 2,
+                        "outcomeId": "6e0aaxv464x0xh8op8",
+                        "maxOddsProviderId": 617,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 6,
+                        "bettingTypeId": 1,
+                        "eventId": 6750538,
+                        "maxOdds": 6.59,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0aaxv498x0x0",
+                        "maxOddsProviderId": 417,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 10.25,
+                        "bettingTypeId": 1,
+                        "eventId": 6750538,
+                        "maxOdds": 11.36,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0aaxv464x0xh8op9",
+                        "maxOddsProviderId": 575,
+                        "active": true
+                    }
+                ],
+                "name": "Brighton - Luton",
+                "colClassNameTime": "datet t1691848800-1-1-0-0"
+            },
+            {
+                "id": 6750539,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18113322,
+                "away": 18113323,
+                "home-name": "Everton",
+                "away-name": "Fulham",
+                "home-country-two-chart-name": "198",
+                "away-country-two-chart-name": "198",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 71432,
+                "tournament-stage-id": 118530,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/Cp7kPg6n-bRmKmISE.png?240821115140"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/drr9Im7n-ImMEe0UF.png?240821115140"
+                ],
+                "encodeEventId": "6m8qJGy2",
+                "colClassName": "datet t1691848800-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/england/premier-league-2023-2024/everton-fulham-6m8qJGy2/",
+                "date-start-base": 1691848800,
+                "date-start-timestamp": 1691848800,
+                "result": "0:1",
+                "homeResult": "0",
+                "awayResult": "1",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "lost",
+                "away-winner": "win",
+                "postmatchResult": "0:1",
+                "info": null,
+                "partialresult": "0:0, 0:1",
+                "country-id": 198,
+                "country-name": "England",
+                "country-two-chart-name": 198,
+                "country-type": "State",
+                "tournament-id": 71432,
+                "tournament-name": "Premier League 2023/2024",
+                "tournament-url": "premier-league-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "England",
+                        "url": "/football/england/"
+                    },
+                    "tournament": {
+                        "name": "Premier League 2023/2024",
+                        "url": "/football/england/premier-league-2023-2024/"
+                    }
+                },
+                "stream": null,
+                "bookmakersCount": 14,
+                "betting_type": 1,
+                "winner_post": 2,
+                "odds": [
+                    {
+                        "avgOdds": 2.28,
+                        "bettingTypeId": 1,
+                        "eventId": 6750539,
+                        "maxOdds": 2.39,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0abxv464x0xh8opa",
+                        "maxOddsProviderId": 18,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 3.33,
+                        "bettingTypeId": 1,
+                        "eventId": 6750539,
+                        "maxOdds": 3.5,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0abxv498x0x0",
+                        "maxOddsProviderId": 451,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 3.35,
+                        "bettingTypeId": 1,
+                        "eventId": 6750539,
+                        "maxOdds": 3.52,
+                        "outcomeResultId": 1,
+                        "scopeId": 2,
+                        "outcomeId": "6e0abxv464x0xh8opb",
+                        "maxOddsProviderId": 617,
+                        "active": true
+                    }
+                ],
+                "name": "Everton - Fulham",
+                "colClassNameTime": "datet t1691848800-1-1-0-0"
+            },
+            {
+                "id": 6750540,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18113324,
+                "away": 18113325,
+                "home-name": "Sheffield Utd",
+                "away-name": "Crystal Palace",
+                "home-country-two-chart-name": "198",
+                "away-country-two-chart-name": "198",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 71432,
+                "tournament-stage-id": 118530,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/MR0mG4Tc-K2FpWLH3.png?240821115140"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/SIneXy73-pzMOQXRe.png?240821115140"
+                ],
+                "encodeEventId": "hjTJs0E2",
+                "colClassName": "datet t1691848800-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/england/premier-league-2023-2024/sheffield-utd-crystal-palace-hjTJs0E2/",
+                "date-start-base": 1691848800,
+                "date-start-timestamp": 1691848800,
+                "result": "0:1",
+                "homeResult": "0",
+                "awayResult": "1",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "lost",
+                "away-winner": "win",
+                "postmatchResult": "0:1",
+                "info": null,
+                "partialresult": "0:0, 0:1",
+                "country-id": 198,
+                "country-name": "England",
+                "country-two-chart-name": 198,
+                "country-type": "State",
+                "tournament-id": 71432,
+                "tournament-name": "Premier League 2023/2024",
+                "tournament-url": "premier-league-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "England",
+                        "url": "/football/england/"
+                    },
+                    "tournament": {
+                        "name": "Premier League 2023/2024",
+                        "url": "/football/england/premier-league-2023-2024/"
+                    }
+                },
+                "stream": null,
+                "bookmakersCount": 14,
+                "betting_type": 1,
+                "winner_post": 2,
+                "odds": [
+                    {
+                        "avgOdds": 3.78,
+                        "bettingTypeId": 1,
+                        "eventId": 6750540,
+                        "maxOdds": 3.99,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0acxv464x0xh8opc",
+                        "maxOddsProviderId": 617,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 3.18,
+                        "bettingTypeId": 1,
+                        "eventId": 6750540,
+                        "maxOdds": 3.3,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0acxv498x0x0",
+                        "maxOddsProviderId": 451,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 2.19,
+                        "bettingTypeId": 1,
+                        "eventId": 6750540,
+                        "maxOdds": 2.33,
+                        "outcomeResultId": 1,
+                        "scopeId": 2,
+                        "outcomeId": "6e0acxv464x0xh8opd",
+                        "maxOddsProviderId": 451,
+                        "active": true
+                    }
+                ],
+                "name": "Sheffield Utd - Crystal Palace",
+                "colClassNameTime": "datet t1691848800-1-1-0-0"
+            },
+            {
+                "id": 6750536,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18113316,
+                "away": 18113317,
+                "home-name": "Arsenal",
+                "away-name": "Nottingham",
+                "home-country-two-chart-name": "198",
+                "away-country-two-chart-name": "198",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 71432,
+                "tournament-stage-id": 118530,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/fwtiqyQt-vcNAdtF9.png?240821115140"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/6uyUuh7n-ImKwLTtA.png?240821115140"
+                ],
+                "encodeEventId": "KW5XLIiq",
+                "colClassName": "datet t1691839800-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/england/premier-league-2023-2024/arsenal-nottingham-KW5XLIiq/",
+                "date-start-base": 1691839800,
+                "date-start-timestamp": 1691839800,
+                "result": "2:1",
+                "homeResult": "2",
+                "awayResult": "1",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "win",
+                "away-winner": "lost",
+                "postmatchResult": "2:1",
+                "info": null,
+                "partialresult": "2:0, 0:1",
+                "country-id": 198,
+                "country-name": "England",
+                "country-two-chart-name": 198,
+                "country-type": "State",
+                "tournament-id": 71432,
+                "tournament-name": "Premier League 2023/2024",
+                "tournament-url": "premier-league-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "England",
+                        "url": "/football/england/"
+                    },
+                    "tournament": {
+                        "name": "Premier League 2023/2024",
+                        "url": "/football/england/premier-league-2023-2024/"
+                    }
+                },
+                "stream": null,
+                "bookmakersCount": 14,
+                "winner_post": 0,
+                "betting_type": 1,
+                "odds": [
+                    {
+                        "avgOdds": 1.18,
+                        "bettingTypeId": 1,
+                        "eventId": 6750536,
+                        "maxOdds": 1.21,
+                        "outcomeResultId": 1,
+                        "scopeId": 2,
+                        "outcomeId": "6e0a8xv464x0xh8op4",
+                        "maxOddsProviderId": 5,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 7.81,
+                        "bettingTypeId": 1,
+                        "eventId": 6750536,
+                        "maxOdds": 10.14,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0a8xv498x0x0",
+                        "maxOddsProviderId": 451,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 16.27,
+                        "bettingTypeId": 1,
+                        "eventId": 6750536,
+                        "maxOdds": 21.1,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0a8xv464x0xh8op5",
+                        "maxOddsProviderId": 451,
+                        "active": true
+                    }
+                ],
+                "name": "Arsenal - Nottingham",
+                "colClassNameTime": "datet t1691839800-1-1-0-0"
+            },
+            {
+                "id": 6750535,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18113314,
+                "away": 18113315,
+                "home-name": "Burnley",
+                "away-name": "Manchester City",
+                "home-country-two-chart-name": "198",
+                "away-country-two-chart-name": "198",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 71432,
+                "tournament-stage-id": 118530,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/O2x5pck9-6PhTI7J6.png?240821115140"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/bD5ctWmh-lQuhqN8N.png?240821115140"
+                ],
+                "encodeEventId": "EkT4QbqS",
+                "colClassName": "datet t1691780400-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/england/premier-league-2023-2024/burnley-manchester-city-EkT4QbqS/",
+                "date-start-base": 1691780400,
+                "date-start-timestamp": 1691780400,
+                "result": "0:3",
+                "homeResult": "0",
+                "awayResult": "3",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "lost",
+                "away-winner": "win",
+                "postmatchResult": "0:3",
+                "info": null,
+                "partialresult": "0:2, 0:1",
+                "country-id": 198,
+                "country-name": "England",
+                "country-two-chart-name": 198,
+                "country-type": "State",
+                "tournament-id": 71432,
+                "tournament-name": "Premier League 2023/2024",
+                "tournament-url": "premier-league-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "England",
+                        "url": "/football/england/"
+                    },
+                    "tournament": {
+                        "name": "Premier League 2023/2024",
+                        "url": "/football/england/premier-league-2023-2024/"
+                    }
+                },
+                "stream": null,
+                "bookmakersCount": 14,
+                "betting_type": 1,
+                "winner_post": 2,
+                "odds": [
+                    {
+                        "avgOdds": 9.19,
+                        "bettingTypeId": 1,
+                        "eventId": 6750535,
+                        "maxOdds": 9.98,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0a7xv464x0xh8op2",
+                        "maxOddsProviderId": 417,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 5.48,
+                        "bettingTypeId": 1,
+                        "eventId": 6750535,
+                        "maxOdds": 5.81,
+                        "outcomeResultId": 2,
+                        "scopeId": 2,
+                        "outcomeId": "6e0a7xv498x0x0",
+                        "maxOddsProviderId": 18,
+                        "active": true
+                    },
+                    {
+                        "avgOdds": 1.33,
+                        "bettingTypeId": 1,
+                        "eventId": 6750535,
+                        "maxOdds": 1.36,
+                        "outcomeResultId": 1,
+                        "scopeId": 2,
+                        "outcomeId": "6e0a7xv464x0xh8op3",
+                        "maxOddsProviderId": 617,
+                        "active": true
+                    }
+                ],
+                "name": "Burnley - Manchester City",
+                "colClassNameTime": "datet t1691780400-1-1-0-0"
+            }
+        ],
+        "pagination": {
+            "pageCount": 8,
+            "activePage": 8,
+            "url": "https://www.oddsportal.com/ajax-sport-country-tournament-archive_/1/jDTEm9zs/X360488X0X0X0X0X0X0X0X0X0X0X0X0X134217729X0X1048578X0X0X1024X18464X131072X256/1/0",
+            "hasPagination": true,
+            "prefix": "",
+            "pages": 5,
+            "nextText": "Next",
+            "prevText": "Prev"
+        }
+    },
+    "refresh": 20
+}
