@@ -18,9 +18,9 @@ At first, I wanted to see if scoring a goal earlier in the match meant that a pl
 
 The statistical model used is described by the equation:
 
-$$ \text{AwareXG} = \text{xG} * \text{1 + b + a_0 x_0 + a_1 x_1 + ...} $$
+$$ \text{AwareXG} = \text{xG} * (1 + \beta + \sum_{i}^{} \alpha_{i} x_i) $$
 
-where $x_i$ are the features, and $a_i$ and $b$ are the model parameters.
+where $x_i$ are the features, and $\alpha_{i}$ and $\beta$ are the model parameters.
 
 With careful feature engineering, this model makes the usage of linear regression favorable with one caveat. Instead of predicting the values 0 if a goal isn't scored and 1 if it is, the model is trained on predicting *scaled goals*, which are calculated as $1/ \text{xG}$. Therefore, even though the model is incapable of accurate prediction of goals, the least-squares method can give us accurate $\alpha_i$ coefficients.
 
