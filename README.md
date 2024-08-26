@@ -10,11 +10,11 @@ The analysis is done using Pandas and sklearn.
 
 xG is calculated from the location of the shot-taker, the goalkeeper's position, the speed of the ball, and other physical features, and mathematically it is the expected value of the number of goals scored from the shot-taking situation. 
 
-Common classification models are of **no use** in this problem. Goalscoring is impossible to predict, and accurate prediction is what most ML models are made to do. Additionally, xG is already present in the data, which should be used since it already gives a great estimate for the chance that a goal will be scored. Most xG values are under 0.3, so any combination of positive mental attributes is still unlikely to result in a goal, because of the paucity of high-xG chances.
+**Popular classification models are of no use in this problem.** Goalscoring is impossible to predict, and accurate prediction is what most ML models are made to do. Additionally, xG is already present in the data, which should be used since it already gives a great estimate for the chance that a goal will be scored. Most xG values are under 0.3, so any combination of positive mental attributes is still unlikely to result in a goal, because of the paucity of high-xG chances.
 
 ## Methods
 
-At first, I wanted to see if scoring a goal earlier in the match meant that a player would score more efficiently. I counted the total xG and total goals realized after already scoring a goal - however, I got the contrary result. I realized that other correlated variables were probably at fault. Therefore, I needed to do proper feature extraction with an ML model.
+At first, I wanted to see if scoring a goal earlier in the match meant that a player would score more efficiently. I counted the total xG and total goals after already scoring a goal - however, I got the contrary result. I realized that other correlated variables were probably at fault. Therefore, I needed to do proper feature extraction with an ML model.
 
 The statistical model used is described by the equation:
 
