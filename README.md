@@ -24,7 +24,7 @@ The statistical model used is described by the equation:
 
 $$ \text{AwareXG} = \text{xG} * (1 + \beta + \sum_{i}^{} \alpha_{i} x_i) $$
 
-where $x_i$ are the features, and $\alpha_{i}$ and $\beta$ are the model parameters. This works because no mental factors were ever observed which are better predictors than xG, so any real formula can be well approximated by this model.
+where $x_i$ are the features, and $\alpha_{i}$ and $\beta$ are the model parameters. This works because no mental factors were ever observed which are better predictors than xG, and because xG values are virtually never close to 1, so any real Bayesian formula can be well approximated by this model.
 
 With careful feature engineering (to get linear relationships), linear regression can be used with one modification. Instead of predicting the values 0 if a goal isn't scored and 1 if it is, the model is trained on predicting *scaled goals*, which are calculated as $1/ \text{xG}$. Therefore, even though the model is incapable of accurate prediction of goals, the least-squares method can give us accurate $\alpha_i$ coefficients. To do this, rare goals scored from very low xG are excluded, so no scaled values are too large.
 
@@ -44,6 +44,8 @@ It is possible that Understat's specific xG model already takes mental factors i
 
 The calculation methods of the features are available in the main notebook.
 
+The simplicity of the model guarantees that AwareXG is a better estimate than XG on this dataset. In addition, the variables rnd1 and rnd2 provide proof that all but one model aren't overfit, meaning that this likely translates to any dataset of professional football. 
+
 ## Further work
 
-Data from other leagues can be added easily after matching the team names used by OddsPortal and Understat. In addition, I suspect that many individual player features (like PrevAccumXG) are used by the model as proxies for the player's usual goalscoring ability or position, but I wasn't able to quantify this easily while preserving the autoregressive property - this can be done in the future.
+Data from other leagues can be added easily after matching the team names used by OddsPortal and Understat. In addition, the model should be properly tested on separate data. Lastly, I suspect that many individual player features (like PrevAccumXG) are used by the model as proxies for the player's usual goalscoring ability or position, but I wasn't able to quantify this easily while preserving the autoregressive property - this can be done in the future.
