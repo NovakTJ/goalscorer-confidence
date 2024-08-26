@@ -2,7 +2,7 @@
 
 Does confidence matter for converting chances into goals in football? Can machine learning help?
 
-xG is a popular metric in football analysis. It measures how likely it is that a specific shot results in a goal. However, mental factors are rarely taken into account. Therefore, a new metric - **AwareXG** - was devised in this analysis, to investigate how pressure and self-belief impact chance conversion.
+xG is a popular metric in football analysis. It measures how likely it is that a specific shot results in a goal. However, mental factors are rarely taken into account for xG. Therefore, a new metric - **AwareXG** - was devised in this analysis, to investigate how pressure and self-belief impact chance conversion.
 
 The analysis is done using Pandas and sklearn. Understat's xG model and shot data is used, while betting data is scraped from OddsPortal.
 
@@ -10,11 +10,9 @@ Keywords: machine learning, statistical analysis, web scraping, pandas, sports, 
 
 ## Introduction
 
-xG is calculated from the location of the shot-taker, the goalkeeper's position, the speed of the ball, and other physical features, and mathematically it is the expected value of the number of goals scored from the shot-taking situation. 
+xG is calculated from the location of the shot-taker, the goalkeeper's position, the speed of the ball, and other physical features, and mathematically it is an estimate of the expected value of the number of goals scored from the shot-taking situation. The goal of the analysis is to improve the EV estimate, by taking into account mental factors. 
 
 **Popular classification models are of no use in this problem.** Most xG values are under 0.3, so any combination of positive mental attributes is still unlikely to result in a goal, because of the paucity of high-xG chances. Accurate prediction is impossible here, and it is what most ML models are made to do. Additionally, xG is already present in the data, which should be used since it already gives a great estimate for the chance that a goal will be scored.
-
-The problem can be stated as improvement of an expected value estimate, taking further variables (mental factors) into account.
 
 ## Methods
 
