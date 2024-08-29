@@ -1,0 +1,1001 @@
+{
+    "s": 1,
+    "d": {
+        "total": 308,
+        "onePage": 50,
+        "page": 7,
+        "rows": [
+            {
+                "id": 6802602,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18244216,
+                "away": 18244217,
+                "home-name": "Union Berlin",
+                "away-name": "Mainz",
+                "home-country-two-chart-name": "de",
+                "away-country-two-chart-name": "de",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 72141,
+                "tournament-stage-id": 120010,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/61o57d7n-ncmj9JbF.png?240829153931"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/vXwKxom9-bsE5kOg9.png?240829153931"
+                ],
+                "encodeEventId": "nXMtaWnh",
+                "colClassName": "datet t1692538200-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/germany/bundesliga-2023-2024/union-berlin-mainz-nXMtaWnh/",
+                "date-start-base": 1692538200,
+                "date-start-timestamp": 1692538200,
+                "result": "4:1",
+                "homeResult": "4",
+                "awayResult": "1",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "win",
+                "away-winner": "lost",
+                "postmatchResult": "4:1",
+                "info": null,
+                "partialresult": "2:0, 2:1",
+                "country-id": 81,
+                "country-name": "Germany",
+                "country-two-chart-name": "de",
+                "country-type": "Country",
+                "tournament-id": 72141,
+                "tournament-name": "Bundesliga 2023/2024",
+                "tournament-url": "bundesliga-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "Germany",
+                        "url": "/football/germany/"
+                    },
+                    "tournament": {
+                        "name": "Bundesliga 2023/2024",
+                        "url": "/football/germany/bundesliga-2023-2024/"
+                    }
+                },
+                "stream": [],
+                "bookmakersCount": 14,
+                "odds": [
+                    {
+                        "eventId": 6802602,
+                        "outcomeResultId": 1,
+                        "outcomeId": "6fj5axv464x0xhcojo",
+                        "bettingTypeId": 1,
+                        "scopeId": 2,
+                        "avgOdds": 2.17,
+                        "maxOdds": 2.48,
+                        "maxOddsProviderId": 451,
+                        "active": true
+                    },
+                    {
+                        "eventId": 6802602,
+                        "outcomeResultId": 2,
+                        "outcomeId": "6fj5axv498x0x0",
+                        "bettingTypeId": 1,
+                        "scopeId": 2,
+                        "avgOdds": 3.33,
+                        "maxOdds": 3.5,
+                        "maxOddsProviderId": 5,
+                        "active": true
+                    },
+                    {
+                        "eventId": 6802602,
+                        "outcomeResultId": 2,
+                        "outcomeId": "6fj5axv464x0xhcojp",
+                        "bettingTypeId": 1,
+                        "scopeId": 2,
+                        "avgOdds": 3.59,
+                        "maxOdds": 3.93,
+                        "maxOddsProviderId": 417,
+                        "active": true
+                    }
+                ],
+                "winner_post": 0,
+                "name": "Union Berlin - Mainz",
+                "colClassNameTime": "datet t1692538200-1-1-0-0"
+            },
+            {
+                "id": 6802601,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18244214,
+                "away": 18244215,
+                "home-name": "Dortmund",
+                "away-name": "FC Koln",
+                "home-country-two-chart-name": "de",
+                "away-country-two-chart-name": "de",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 72141,
+                "tournament-stage-id": 120010,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/vLvl0uRc-WrjrBuU2.png?240829153931"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/z5FTUSVE-86lnAaq9.png?240829153931"
+                ],
+                "encodeEventId": "IcIx0CXo",
+                "colClassName": "datet t1692462600-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/germany/bundesliga-2023-2024/dortmund-1-fc-koln-IcIx0CXo/",
+                "date-start-base": 1692462600,
+                "date-start-timestamp": 1692462600,
+                "result": "1:0",
+                "homeResult": "1",
+                "awayResult": "0",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "win",
+                "away-winner": "lost",
+                "postmatchResult": "1:0",
+                "info": null,
+                "partialresult": "0:0, 1:0",
+                "country-id": 81,
+                "country-name": "Germany",
+                "country-two-chart-name": "de",
+                "country-type": "Country",
+                "tournament-id": 72141,
+                "tournament-name": "Bundesliga 2023/2024",
+                "tournament-url": "bundesliga-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "Germany",
+                        "url": "/football/germany/"
+                    },
+                    "tournament": {
+                        "name": "Bundesliga 2023/2024",
+                        "url": "/football/germany/bundesliga-2023-2024/"
+                    }
+                },
+                "stream": {
+                    "141": 1
+                },
+                "bookmakersCount": 14,
+                "odds": [
+                    {
+                        "eventId": 6802601,
+                        "outcomeResultId": 1,
+                        "outcomeId": "6fj59xv464x0xhcojm",
+                        "bettingTypeId": 1,
+                        "scopeId": 2,
+                        "avgOdds": 1.48,
+                        "maxOdds": 1.68,
+                        "maxOddsProviderId": 451,
+                        "active": true
+                    },
+                    {
+                        "eventId": 6802601,
+                        "outcomeResultId": 2,
+                        "outcomeId": "6fj59xv498x0x0",
+                        "bettingTypeId": 1,
+                        "scopeId": 2,
+                        "avgOdds": 4.94,
+                        "maxOdds": 5.2,
+                        "maxOddsProviderId": 584,
+                        "active": true
+                    },
+                    {
+                        "eventId": 6802601,
+                        "outcomeResultId": 2,
+                        "outcomeId": "6fj59xv464x0xhcojn",
+                        "bettingTypeId": 1,
+                        "scopeId": 2,
+                        "avgOdds": 6.21,
+                        "maxOdds": 6.9,
+                        "maxOddsProviderId": 584,
+                        "active": true
+                    }
+                ],
+                "winner_post": 0,
+                "name": "Dortmund - FC Koln",
+                "colClassNameTime": "datet t1692462600-1-1-0-0"
+            },
+            {
+                "id": 6802607,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18244226,
+                "away": 18244227,
+                "home-name": "Augsburg",
+                "away-name": "B. Monchengladbach",
+                "home-country-two-chart-name": "de",
+                "away-country-two-chart-name": "de",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 72141,
+                "tournament-stage-id": 120010,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/Sd3NTEWE-Qmnf8wEL.png?240829153931"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/KhoMifBK-ncmj9JbF.png?240829153931"
+                ],
+                "encodeEventId": "hzD1f81N",
+                "colClassName": "datet t1692451800-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/germany/bundesliga-2023-2024/augsburg-b-monchengladbach-hzD1f81N/",
+                "date-start-base": 1692451800,
+                "date-start-timestamp": 1692451800,
+                "result": "4:4",
+                "homeResult": "4",
+                "awayResult": "4",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "draw",
+                "away-winner": "draw",
+                "postmatchResult": "4:4",
+                "info": null,
+                "partialresult": "3:3, 1:1",
+                "country-id": 81,
+                "country-name": "Germany",
+                "country-two-chart-name": "de",
+                "country-type": "Country",
+                "tournament-id": 72141,
+                "tournament-name": "Bundesliga 2023/2024",
+                "tournament-url": "bundesliga-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "Germany",
+                        "url": "/football/germany/"
+                    },
+                    "tournament": {
+                        "name": "Bundesliga 2023/2024",
+                        "url": "/football/germany/bundesliga-2023-2024/"
+                    }
+                },
+                "stream": {
+                    "141": 1
+                },
+                "bookmakersCount": 14,
+                "odds": [
+                    {
+                        "eventId": 6802607,
+                        "outcomeResultId": 2,
+                        "outcomeId": "6fj5fxv464x0xhcok2",
+                        "bettingTypeId": 1,
+                        "scopeId": 2,
+                        "avgOdds": 2.85,
+                        "maxOdds": 3.5,
+                        "maxOddsProviderId": 451,
+                        "active": true
+                    },
+                    {
+                        "eventId": 6802607,
+                        "outcomeResultId": 1,
+                        "outcomeId": "6fj5fxv498x0x0",
+                        "bettingTypeId": 1,
+                        "scopeId": 2,
+                        "avgOdds": 3.7,
+                        "maxOdds": 3.87,
+                        "maxOddsProviderId": 417,
+                        "active": true
+                    },
+                    {
+                        "eventId": 6802607,
+                        "outcomeResultId": 2,
+                        "outcomeId": "6fj5fxv464x0xhcok3",
+                        "bettingTypeId": 1,
+                        "scopeId": 2,
+                        "avgOdds": 2.39,
+                        "maxOdds": 2.5,
+                        "maxOddsProviderId": 617,
+                        "active": true
+                    }
+                ],
+                "winner_post": 1,
+                "name": "Augsburg - B. Monchengladbach",
+                "colClassNameTime": "datet t1692451800-1-1-0-0"
+            },
+            {
+                "id": 6802603,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18244218,
+                "away": 18244219,
+                "home-name": "Bayer Leverkusen",
+                "away-name": "RB Leipzig",
+                "home-country-two-chart-name": "de",
+                "away-country-two-chart-name": "de",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 72141,
+                "tournament-stage-id": 120010,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/Ch9b0m5n-WrjrBuU2.png?240829153931"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/SCGNQcTE-hluOFlbs.png?240829153931"
+                ],
+                "encodeEventId": "QNLpbj2b",
+                "colClassName": "datet t1692451800-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/germany/bundesliga-2023-2024/bayer-leverkusen-rb-leipzig-QNLpbj2b/",
+                "date-start-base": 1692451800,
+                "date-start-timestamp": 1692451800,
+                "result": "3:2",
+                "homeResult": "3",
+                "awayResult": "2",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "win",
+                "away-winner": "lost",
+                "postmatchResult": "3:2",
+                "info": null,
+                "partialresult": "2:1, 1:1",
+                "country-id": 81,
+                "country-name": "Germany",
+                "country-two-chart-name": "de",
+                "country-type": "Country",
+                "tournament-id": 72141,
+                "tournament-name": "Bundesliga 2023/2024",
+                "tournament-url": "bundesliga-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "Germany",
+                        "url": "/football/germany/"
+                    },
+                    "tournament": {
+                        "name": "Bundesliga 2023/2024",
+                        "url": "/football/germany/bundesliga-2023-2024/"
+                    }
+                },
+                "stream": {
+                    "141": 1
+                },
+                "bookmakersCount": 14,
+                "odds": [
+                    {
+                        "eventId": 6802603,
+                        "outcomeResultId": 1,
+                        "outcomeId": "6fj5bxv464x0xhcojq",
+                        "bettingTypeId": 1,
+                        "scopeId": 2,
+                        "avgOdds": 2.52,
+                        "maxOdds": 3.16,
+                        "maxOddsProviderId": 451,
+                        "active": true
+                    },
+                    {
+                        "eventId": 6802603,
+                        "outcomeResultId": 2,
+                        "outcomeId": "6fj5bxv498x0x0",
+                        "bettingTypeId": 1,
+                        "scopeId": 2,
+                        "avgOdds": 3.55,
+                        "maxOdds": 3.73,
+                        "maxOddsProviderId": 417,
+                        "active": true
+                    },
+                    {
+                        "eventId": 6802603,
+                        "outcomeResultId": 2,
+                        "outcomeId": "6fj5bxv464x0xhcojr",
+                        "bettingTypeId": 1,
+                        "scopeId": 2,
+                        "avgOdds": 2.74,
+                        "maxOdds": 2.99,
+                        "maxOddsProviderId": 575,
+                        "active": true
+                    }
+                ],
+                "winner_post": 0,
+                "name": "Bayer Leverkusen - RB Leipzig",
+                "colClassNameTime": "datet t1692451800-1-1-0-0"
+            },
+            {
+                "id": 6802606,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18244224,
+                "away": 18244225,
+                "home-name": "Hoffenheim",
+                "away-name": "Freiburg",
+                "home-country-two-chart-name": "de",
+                "away-country-two-chart-name": "de",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 72141,
+                "tournament-stage-id": 120010,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/UaWS5WQt-8GkSmkbF.png?240829153931"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/E1kwqpQt-86lnAaq9.png?240829153931"
+                ],
+                "encodeEventId": "EqEcelnH",
+                "colClassName": "datet t1692451800-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/germany/bundesliga-2023-2024/hoffenheim-freiburg-EqEcelnH/",
+                "date-start-base": 1692451800,
+                "date-start-timestamp": 1692451800,
+                "result": "1:2",
+                "homeResult": "1",
+                "awayResult": "2",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "lost",
+                "away-winner": "win",
+                "postmatchResult": "1:2",
+                "info": null,
+                "partialresult": "0:2, 1:0",
+                "country-id": 81,
+                "country-name": "Germany",
+                "country-two-chart-name": "de",
+                "country-type": "Country",
+                "tournament-id": 72141,
+                "tournament-name": "Bundesliga 2023/2024",
+                "tournament-url": "bundesliga-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "Germany",
+                        "url": "/football/germany/"
+                    },
+                    "tournament": {
+                        "name": "Bundesliga 2023/2024",
+                        "url": "/football/germany/bundesliga-2023-2024/"
+                    }
+                },
+                "stream": [],
+                "bookmakersCount": 14,
+                "odds": [
+                    {
+                        "eventId": 6802606,
+                        "outcomeResultId": 2,
+                        "outcomeId": "6fj5exv464x0xhcok0",
+                        "bettingTypeId": 1,
+                        "scopeId": 2,
+                        "avgOdds": 2.27,
+                        "maxOdds": 2.85,
+                        "maxOddsProviderId": 451,
+                        "active": true
+                    },
+                    {
+                        "eventId": 6802606,
+                        "outcomeResultId": 2,
+                        "outcomeId": "6fj5exv498x0x0",
+                        "bettingTypeId": 1,
+                        "scopeId": 2,
+                        "avgOdds": 3.69,
+                        "maxOdds": 3.87,
+                        "maxOddsProviderId": 417,
+                        "active": true
+                    },
+                    {
+                        "eventId": 6802606,
+                        "outcomeResultId": 1,
+                        "outcomeId": "6fj5exv464x0xhcok1",
+                        "bettingTypeId": 1,
+                        "scopeId": 2,
+                        "avgOdds": 3.08,
+                        "maxOdds": 3.32,
+                        "maxOddsProviderId": 18,
+                        "active": true
+                    }
+                ],
+                "winner_post": 2,
+                "name": "Hoffenheim - Freiburg",
+                "colClassNameTime": "datet t1692451800-1-1-0-0"
+            },
+            {
+                "id": 6802608,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18244228,
+                "away": 18244229,
+                "home-name": "Stuttgart",
+                "away-name": "Bochum",
+                "home-country-two-chart-name": "de",
+                "away-country-two-chart-name": "de",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 72141,
+                "tournament-stage-id": 120010,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/OreU53Rc-86lnAaq9.png?240829153931"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/KKySzh83-86lnAaq9.png?240829153931"
+                ],
+                "encodeEventId": "AB76gSGT",
+                "colClassName": "datet t1692451800-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/germany/bundesliga-2023-2024/vfb-stuttgart-bochum-AB76gSGT/",
+                "date-start-base": 1692451800,
+                "date-start-timestamp": 1692451800,
+                "result": "5:0",
+                "homeResult": "5",
+                "awayResult": "0",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "win",
+                "away-winner": "lost",
+                "postmatchResult": "5:0",
+                "info": null,
+                "partialresult": "2:0, 3:0",
+                "country-id": 81,
+                "country-name": "Germany",
+                "country-two-chart-name": "de",
+                "country-type": "Country",
+                "tournament-id": 72141,
+                "tournament-name": "Bundesliga 2023/2024",
+                "tournament-url": "bundesliga-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "Germany",
+                        "url": "/football/germany/"
+                    },
+                    "tournament": {
+                        "name": "Bundesliga 2023/2024",
+                        "url": "/football/germany/bundesliga-2023-2024/"
+                    }
+                },
+                "stream": {
+                    "141": 1
+                },
+                "bookmakersCount": 14,
+                "odds": [
+                    {
+                        "eventId": 6802608,
+                        "outcomeResultId": 1,
+                        "outcomeId": "6fj5gxv464x0xhcok4",
+                        "bettingTypeId": 1,
+                        "scopeId": 2,
+                        "avgOdds": 1.8,
+                        "maxOdds": 2.06,
+                        "maxOddsProviderId": 451,
+                        "active": true
+                    },
+                    {
+                        "eventId": 6802608,
+                        "outcomeResultId": 2,
+                        "outcomeId": "6fj5gxv498x0x0",
+                        "bettingTypeId": 1,
+                        "scopeId": 2,
+                        "avgOdds": 4,
+                        "maxOdds": 4.2,
+                        "maxOddsProviderId": 16,
+                        "active": true
+                    },
+                    {
+                        "eventId": 6802608,
+                        "outcomeResultId": 2,
+                        "outcomeId": "6fj5gxv464x0xhcok5",
+                        "bettingTypeId": 1,
+                        "scopeId": 2,
+                        "avgOdds": 4.19,
+                        "maxOdds": 4.52,
+                        "maxOddsProviderId": 18,
+                        "active": true
+                    }
+                ],
+                "winner_post": 0,
+                "name": "Stuttgart - Bochum",
+                "colClassNameTime": "datet t1692451800-1-1-0-0"
+            },
+            {
+                "id": 6802605,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18244222,
+                "away": 18244223,
+                "home-name": "Wolfsburg",
+                "away-name": "Heidenheim",
+                "home-country-two-chart-name": "de",
+                "away-country-two-chart-name": "de",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 72141,
+                "tournament-stage-id": 120010,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/0WPbFRoh-KjF1j4v3.png?240829153931"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/lU34AyVE-ncNaLxYl.png?240829153931"
+                ],
+                "encodeEventId": "KMEgdUWA",
+                "colClassName": "datet t1692451800-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/germany/bundesliga-2023-2024/wolfsburg-heidenheim-KMEgdUWA/",
+                "date-start-base": 1692451800,
+                "date-start-timestamp": 1692451800,
+                "result": "2:0",
+                "homeResult": "2",
+                "awayResult": "0",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "win",
+                "away-winner": "lost",
+                "postmatchResult": "2:0",
+                "info": null,
+                "partialresult": "2:0, 0:0",
+                "country-id": 81,
+                "country-name": "Germany",
+                "country-two-chart-name": "de",
+                "country-type": "Country",
+                "tournament-id": 72141,
+                "tournament-name": "Bundesliga 2023/2024",
+                "tournament-url": "bundesliga-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "Germany",
+                        "url": "/football/germany/"
+                    },
+                    "tournament": {
+                        "name": "Bundesliga 2023/2024",
+                        "url": "/football/germany/bundesliga-2023-2024/"
+                    }
+                },
+                "stream": {
+                    "141": 1
+                },
+                "bookmakersCount": 14,
+                "odds": [
+                    {
+                        "eventId": 6802605,
+                        "outcomeResultId": 1,
+                        "outcomeId": "6fj5dxv464x0xhcoju",
+                        "bettingTypeId": 1,
+                        "scopeId": 2,
+                        "avgOdds": 1.66,
+                        "maxOdds": 1.94,
+                        "maxOddsProviderId": 451,
+                        "active": true
+                    },
+                    {
+                        "eventId": 6802605,
+                        "outcomeResultId": 2,
+                        "outcomeId": "6fj5dxv498x0x0",
+                        "bettingTypeId": 1,
+                        "scopeId": 2,
+                        "avgOdds": 4.27,
+                        "maxOdds": 4.42,
+                        "maxOddsProviderId": 575,
+                        "active": true
+                    },
+                    {
+                        "eventId": 6802605,
+                        "outcomeResultId": 2,
+                        "outcomeId": "6fj5dxv464x0xhcojv",
+                        "bettingTypeId": 1,
+                        "scopeId": 2,
+                        "avgOdds": 4.92,
+                        "maxOdds": 5.2,
+                        "maxOddsProviderId": 584,
+                        "active": true
+                    }
+                ],
+                "winner_post": 0,
+                "name": "Wolfsburg - Heidenheim",
+                "colClassNameTime": "datet t1692451800-1-1-0-0"
+            },
+            {
+                "id": 6802600,
+                "is-double": false,
+                "superTemplate": {
+                    "id": "",
+                    "name": "",
+                    "url": "",
+                    "shortUrl": ""
+                },
+                "home": 18244212,
+                "away": 18244213,
+                "home-name": "Werder Bremen",
+                "away-name": "Bayern Munich",
+                "home-country-two-chart-name": "de",
+                "away-country-two-chart-name": "de",
+                "home-participant-id": 1,
+                "away-participant-id": 1,
+                "status-id": 3,
+                "event-stage-id": 3,
+                "event-stage-name": "Finished",
+                "event-stage-name-short": "",
+                "tournament_id": 72141,
+                "tournament-stage-id": 120010,
+                "tournament-stage-type-id": 2,
+                "tournament-stage-group-id": 0,
+                "tournament-stage-name": "",
+                "sport-id": 1,
+                "cols": "1|X|2",
+                "home-participant-images": [
+                    "/serve/images/team-logo/Men/bcT3Vynh-EVomMG4o.png?240829153931"
+                ],
+                "away-participant-images": [
+                    "/serve/images/team-logo/Men/n5TRE2Tc-bZPE0zNp.png?240829153931"
+                ],
+                "encodeEventId": "v7JY0hIu",
+                "colClassName": "datet t1692383400-2-0-0-1",
+                "homeParticipantTypes": [
+                    1
+                ],
+                "awayParticipantTypes": [
+                    1
+                ],
+                "ftOnly": false,
+                "ftOnlyText": "",
+                "ftOnlyTextShort": "",
+                "url": "/football/germany/bundesliga-2023-2024/werder-bremen-bayern-munich-v7JY0hIu/",
+                "date-start-base": 1692383400,
+                "date-start-timestamp": 1692383400,
+                "result": "0:4",
+                "homeResult": "0",
+                "awayResult": "4",
+                "homeTextInResult": "",
+                "awayTextInResult": "",
+                "home-winner": "lost",
+                "away-winner": "win",
+                "postmatchResult": "0:4",
+                "info": null,
+                "partialresult": "0:1, 0:3",
+                "country-id": 81,
+                "country-name": "Germany",
+                "country-two-chart-name": "de",
+                "country-type": "Country",
+                "tournament-id": 72141,
+                "tournament-name": "Bundesliga 2023/2024",
+                "tournament-url": "bundesliga-2023-2024",
+                "sport-url-name": "football",
+                "breadcrumbs": {
+                    "sport": {
+                        "name": "Football",
+                        "url": "/football/"
+                    },
+                    "country": {
+                        "name": "Germany",
+                        "url": "/football/germany/"
+                    },
+                    "tournament": {
+                        "name": "Bundesliga 2023/2024",
+                        "url": "/football/germany/bundesliga-2023-2024/"
+                    }
+                },
+                "stream": {
+                    "141": 1
+                },
+                "bookmakersCount": 14,
+                "odds": [
+                    {
+                        "eventId": 6802600,
+                        "outcomeResultId": 2,
+                        "outcomeId": "6fj58xv464x0xhcojk",
+                        "bettingTypeId": 1,
+                        "scopeId": 2,
+                        "avgOdds": 8.64,
+                        "maxOdds": 9.34,
+                        "maxOddsProviderId": 417,
+                        "active": true
+                    },
+                    {
+                        "eventId": 6802600,
+                        "outcomeResultId": 2,
+                        "outcomeId": "6fj58xv498x0x0",
+                        "bettingTypeId": 1,
+                        "scopeId": 2,
+                        "avgOdds": 6.17,
+                        "maxOdds": 6.4,
+                        "maxOddsProviderId": 584,
+                        "active": true
+                    },
+                    {
+                        "eventId": 6802600,
+                        "outcomeResultId": 1,
+                        "outcomeId": "6fj58xv464x0xhcojl",
+                        "bettingTypeId": 1,
+                        "scopeId": 2,
+                        "avgOdds": 1.3,
+                        "maxOdds": 1.33,
+                        "maxOddsProviderId": 3,
+                        "active": true
+                    }
+                ],
+                "winner_post": 2,
+                "name": "Werder Bremen - Bayern Munich",
+                "colClassNameTime": "datet t1692383400-1-1-0-0"
+            }
+        ],
+        "pagination": {
+            "pageCount": 7,
+            "activePage": 7,
+            "url": "https://www.oddsportal.com/ajax-sport-country-tournament-archive_/1/vJuMPo6c/X360488X0X0X0X0X0X0X0X0X0X0X0X0X134217729X0X1048578X0X0X1024X18464X131072X256/1/2",
+            "hasPagination": true,
+            "prefix": "",
+            "pages": 5,
+            "nextText": "Next",
+            "prevText": "Prev"
+        }
+    },
+    "refresh": 20
+}

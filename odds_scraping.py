@@ -1,9 +1,10 @@
 import requests
 import json
 
-YEAR = 2018
+YEAR = 2023
 def get_url(i):
-    return f'https://www.oddsportal.com/ajax-sport-country-tournament-archive_/1/zoZ4r7jR/X360488X0X0X0X0X0X0X0X0X0X0X0X0X134217729X0X1048578X0X0X1024X18464X131072X256/1/0/page/{i}/?_=1724676234926'
+    return f'https://www.oddsportal.com/ajax-sport-country-tournament-archive_/1/vJuMPo6c/X360488X0X0X0X0X0X0X0X0X0X0X0X0X134217729X0X1048578X0X0X1024X18464X131072X256/1/2/page/{i}/?_=1724956755698'
+    #return f'https://www.oddsportal.com/ajax-sport-country-tournament-archive_/1/zoZ4r7jR/X360488X0X0X0X0X0X0X0X0X0X0X0X0X134217729X0X1048578X0X0X1024X18464X131072X256/1/0/page/{i}/?_=1724676234926'
     #return f'https://www.oddsportal.com/ajax-sport-country-tournament-archive_/1/jDTEm9zs/X360488X0X0X0X0X0X0X0X0X0X0X0X0X134217729X0X1048578X0X0X1024X18464X131072X256/1/0/page/{i}/?_=1724670227066'
     #return f'https://www.oddsportal.com/ajax-sport-country-tournament-archive_/1/nmP0jyrt/X360488X0X0X0X0X0X0X0X0X0X0X0X0X134217729X0X1048578X0X0X1024X18464X131072X256/1/0/page/{i}?_=1724668051063'
     #return f'https://www.oddsportal.com/ajax-sport-country-tournament-archive_/1/tdkpynmB/X360488X0X0X0X0X0X0X0X0X0X0X0X0X134217729X0X1048578X0X0X1024X18464X131072X256/1/0/page/{i}?_=1724622553073'
@@ -29,11 +30,8 @@ headers = {
   'x-xsrf-token': 'eyJpdiI6IlpvQnBvVG9DTnE5WXVuR3ltU29zZFE9PSIsInZhbHVlIjoiSHErTmVGM1pGdWpkbmc1UHErYWFWQW5QOEtSSEN4djVwaTZ6NmRnTXhEUTBVbzJqTXBreVNFM1FjWTBFYUl4WlRWY2NqM2xjcmJpMFFyNDZUWndpM1BQYXBILy9rd1dpeHJ6dFU2MWlscG5uUmZXVG55SjlwQnlVZU5kNGp2UTQiLCJtYWMiOiI1NDQwMjM4NjU0ZGE4NGQyMTkxYTA2MjNiODQzZDk5ZjdhMjJmMWQ3NGYxZTA3ZTI5MzFhOGIzNGRmMDFjZjk2IiwidGFnIjoiIn0='
 }
 
-#KAKO KRECE OD -1 ???
-
-
-for i in range(1,11):
+for i in range(1,9):
     response = requests.request("GET", get_url(i), headers=headers, data=payload)
-    with open(f'data/betting_{YEAR}_EPL_page_{i}.json', 'w') as json_file:
+    with open(f'data/betting_{YEAR}_Bundesliga_page_{i}.json', 'w') as json_file:
         json.dump(response.json(), json_file, indent=4)
 #print(response.text)
